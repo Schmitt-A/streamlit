@@ -13,3 +13,5 @@ user = st.text_input("Benutzername", "")
 
 if user == st.secrets.name:
     st.write("Angemeldet!")
+else:
+    st.write("Abgemeldet")
