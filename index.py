@@ -11,9 +11,9 @@ st.write(st.secrets.OpenAI_key)
 
 user = st.text_input("Benutzername", "")
 
-st.write(st.secrets.name)
+st.write(st.secrets.NameVon)
 
-if user == st.secrets.name:
+if user == st.secrets.NameVon:
     st.write("Angemeldet!")
 else:
     st.write("Abgemeldet")
