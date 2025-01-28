@@ -11,6 +11,8 @@ st.write(st.secrets.OpenAI_key)
 
 user = st.text_input("Benutzername", "")
 
+st.write(st.secrets.name)
+
 if user == st.secrets.name:
     st.write("Angemeldet!")
 else:
