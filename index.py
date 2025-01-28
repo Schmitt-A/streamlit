@@ -13,7 +13,7 @@ st.write(st.secrets.benutzer)
 
 user = st.text_input("Benutzername", "")
 
-if user == st.secrets.OpenAI_key:
+if user == st.secrets.benutzer:
     st.write("Angemeldet!")
 else:
     st.write("Abgemeldet")
