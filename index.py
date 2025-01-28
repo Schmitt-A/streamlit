@@ -7,4 +7,4 @@ st.write("I'm ", age, "years old")
 
 
 st.write(st.secrets.database.password)
-st.write(st.secrets.OpenAI_key)
+st.write(st.secrets["OpenAI_key"])
