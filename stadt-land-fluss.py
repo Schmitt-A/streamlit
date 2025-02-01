@@ -50,7 +50,7 @@ if len(auswahl) < 3:
     st.write("Du musst mehr drei Elemente auswählen")
 else:
     #Button der Zufällig einen Buchstaben auswählt
-    if st.button("Wähle einen zufälligen Buchstaben!", type="primary", on_click = toggle):
+    if st.button("Start / Restart", type="primary", on_click = toggle):
         st.session_state['buchstabe'] = random.choice(string.ascii_lowercase)
 
 
