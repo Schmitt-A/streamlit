@@ -1,0 +1,514 @@
+{
+  "nahrungsmittel": [
+    {
+      "name": "Haferflocken",
+      "kalorien": 389,
+      "protein": 16.9,
+      "kohlenhydrate": 66.3,
+      "fett": 6.9
+    },
+    {
+      "name": "Hähnchenbrust",
+      "kalorien": 165,
+      "protein": 31.0,
+      "kohlenhydrate": 0.0,
+      "fett": 3.6
+    },
+    {
+      "name": "Lachs",
+      "kalorien": 206,
+      "protein": 20.0,
+      "kohlenhydrate": 0.0,
+      "fett": 13.0
+    },
+    {
+      "name": "Reis (ungekocht)",
+      "kalorien": 365,
+      "protein": 7.1,
+      "kohlenhydrate": 80.0,
+      "fett": 0.7
+    },
+    {
+      "name": "Brokkoli",
+      "kalorien": 34,
+      "protein": 2.8,
+      "kohlenhydrate": 6.6,
+      "fett": 0.4
+    },
+    {
+      "name": "Spinat",
+      "kalorien": 23,
+      "protein": 2.9,
+      "kohlenhydrate": 3.6,
+      "fett": 0.4
+    },
+    {
+      "name": "Avocado",
+      "kalorien": 160,
+      "protein": 2.0,
+      "kohlenhydrate": 8.5,
+      "fett": 14.7
+    },
+    {
+      "name": "Eier",
+      "kalorien": 143,
+      "protein": 12.6,
+      "kohlenhydrate": 1.1,
+      "fett": 9.5
+    },
+    {
+      "name": "Mandelmus",
+      "kalorien": 614,
+      "protein": 21.0,
+      "kohlenhydrate": 19.0,
+      "fett": 56.0
+    },
+    {
+      "name": "Quinoa",
+      "kalorien": 368,
+      "protein": 14.1,
+      "kohlenhydrate": 64.2,
+      "fett": 6.1
+    },
+    {
+      "name": "Süßkartoffel",
+      "kalorien": 86,
+      "protein": 1.6,
+      "kohlenhydrate": 20.0,
+      "fett": 0.1
+    },
+    {
+      "name": "Walnüsse",
+      "kalorien": 654,
+      "protein": 15.2,
+      "kohlenhydrate": 13.7,
+      "fett": 65.2
+    },
+    {
+      "name": "Griechischer Joghurt",
+      "kalorien": 59,
+      "protein": 10.0,
+      "kohlenhydrate": 3.6,
+      "fett": 0.4
+    },
+    {
+      "name": "Linsen (getrocknet)",
+      "kalorien": 353,
+      "protein": 24.6,
+      "kohlenhydrate": 63.0,
+      "fett": 1.1
+    },
+    {
+      "name": "Olivenöl",
+      "kalorien": 884,
+      "protein": 0.0,
+      "kohlenhydrate": 0.0,
+      "fett": 100.0
+    },
+    {
+      "name": "Rindfleisch (mager)",
+      "kalorien": 250,
+      "protein": 26.0,
+      "kohlenhydrate": 0.0,
+      "fett": 17.0
+    },
+    {
+      "name": "Thunfisch (in Wasser)",
+      "kalorien": 86,
+      "protein": 19.0,
+      "kohlenhydrate": 0.0,
+      "fett": 1.0
+    },
+    {
+      "name": "Kichererbsen (gekocht)",
+      "kalorien": 164,
+      "protein": 8.9,
+      "kohlenhydrate": 27.4,
+      "fett": 2.6
+    },
+    {
+      "name": "Banane",
+      "kalorien": 89,
+      "protein": 1.1,
+      "kohlenhydrate": 23.0,
+      "fett": 0.3
+    },
+    {
+      "name": "Tofu",
+      "kalorien": 76,
+      "protein": 8.0,
+      "kohlenhydrate": 1.9,
+      "fett": 4.8
+    },
+    {
+      "name": "Dunkle Schokolade (70%)",
+      "kalorien": 598,
+      "protein": 7.8,
+      "kohlenhydrate": 45.9,
+      "fett": 42.6
+    },
+    {
+      "name": "Erdnussbutter",
+      "kalorien": 588,
+      "protein": 25.0,
+      "kohlenhydrate": 20.0,
+      "fett": 50.0
+    },
+    {
+      "name": "Kartoffel",
+      "kalorien": 77,
+      "protein": 2.0,
+      "kohlenhydrate": 17.0,
+      "fett": 0.1
+    },
+    {
+      "name": "Magerquark",
+      "kalorien": 72,
+      "protein": 12.0,
+      "kohlenhydrate": 4.0,
+      "fett": 0.3
+    },
+    {
+      "name": "Tomate",
+      "kalorien": 18,
+      "protein": 0.9,
+      "kohlenhydrate": 3.9,
+      "fett": 0.2
+    },
+    {
+      "name": "Apfel",
+      "kalorien": 52,
+      "protein": 0.3,
+      "kohlenhydrate": 14.0,
+      "fett": 0.2
+    },
+    {
+      "name": "Vollkornbrot",
+      "kalorien": 250,
+      "protein": 9.0,
+      "kohlenhydrate": 41.0,
+      "fett": 3.5
+    },
+    {
+      "name": "Mandeln",
+      "kalorien": 579,
+      "protein": 21.2,
+      "kohlenhydrate": 21.7,
+      "fett": 49.9
+    },
+    {
+      "name": "Kokosöl",
+      "kalorien": 862,
+      "protein": 0.0,
+      "kohlenhydrate": 0.0,
+      "fett": 100.0
+    },
+    {
+      "name": "Kürbiskerne",
+      "kalorien": 559,
+      "protein": 30.2,
+      "kohlenhydrate": 10.7,
+      "fett": 49.0
+    },
+    {
+      "name": "Karotte",
+      "kalorien": 41,
+      "protein": 0.9,
+      "kohlenhydrate": 10.0,
+      "fett": 0.2
+    },
+    {
+      "name": "Zucchini",
+      "kalorien": 17,
+      "protein": 1.2,
+      "kohlenhydrate": 3.1,
+      "fett": 0.3
+    },
+    {
+      "name": "Honig",
+      "kalorien": 304,
+      "protein": 0.3,
+      "kohlenhydrate": 82.0,
+      "fett": 0.0
+    },
+    {
+      "name": "Hüttenkäse",
+      "kalorien": 98,
+      "protein": 11.0,
+      "kohlenhydrate": 3.4,
+      "fett": 4.3
+    },
+    {
+      "name": "Chiasamen",
+      "kalorien": 486,
+      "protein": 16.5,
+      "kohlenhydrate": 42.1,
+      "fett": 30.7
+    },
+    {
+      "name": "Rote Linsen",
+      "kalorien": 358,
+      "protein": 24.6,
+      "kohlenhydrate": 63.1,
+      "fett": 2.0
+    },
+    {
+      "name": "Erdbeeren",
+      "kalorien": 32,
+      "protein": 0.7,
+      "kohlenhydrate": 7.7,
+      "fett": 0.3
+    },
+    {
+      "name": "Himbeeren",
+      "kalorien": 52,
+      "protein": 1.2,
+      "kohlenhydrate": 12.0,
+      "fett": 0.7
+    },
+    {
+      "name": "Cashewkerne",
+      "kalorien": 553,
+      "protein": 18.2,
+      "kohlenhydrate": 30.2,
+      "fett": 43.9
+    },
+    {
+      "name": "Putenbrust",
+      "kalorien": 111,
+      "protein": 24.0,
+      "kohlenhydrate": 0.0,
+      "fett": 1.0
+    },
+    {
+      "name": "Bulgur",
+      "kalorien": 342,
+      "protein": 12.3,
+      "kohlenhydrate": 75.9,
+      "fett": 1.3
+    },
+    {
+      "name": "Blumenkohl",
+      "kalorien": 25,
+      "protein": 1.9,
+      "kohlenhydrate": 5.0,
+      "fett": 0.3
+    },
+    {
+      "name": "Kidneybohnen",
+      "kalorien": 333,
+      "protein": 24.0,
+      "kohlenhydrate": 60.0,
+      "fett": 0.8
+    },
+    {
+      "name": "Kabeljau",
+      "kalorien": 82,
+      "protein": 18.0,
+      "kohlenhydrate": 0.0,
+      "fett": 0.7
+    },
+    {
+      "name": "Makrele",
+      "kalorien": 305,
+      "protein": 18.0,
+      "kohlenhydrate": 0.0,
+      "fett": 25.0
+    },
+    {
+      "name": "Weizenkeime",
+      "kalorien": 360,
+      "protein": 23.2,
+      "kohlenhydrate": 51.8,
+      "fett": 9.7
+    },
+    {
+      "name": "Paprika",
+      "kalorien": 20,
+      "protein": 0.9,
+      "kohlenhydrate": 4.6,
+      "fett": 0.2
+    },
+    {
+      "name": "Ananas",
+      "kalorien": 50,
+      "protein": 0.5,
+      "kohlenhydrate": 13.1,
+      "fett": 0.1
+    },
+    {
+      "name": "Garnelen",
+      "kalorien": 99,
+      "protein": 24.0,
+      "kohlenhydrate": 0.2,
+      "fett": 0.3
+    },
+    {
+      "name": "Rucola",
+      "kalorien": 25,
+      "protein": 2.6,
+      "kohlenhydrate": 3.7,
+      "fett": 0.7
+    },
+    {
+      "name": "Kürbis",
+      "kalorien": 26,
+      "protein": 1.0,
+      "kohlenhydrate": 6.5,
+      "fett": 0.1
+    },
+    {
+      "name": "Grünkohl",
+      "kalorien": 49,
+      "protein": 4.3,
+      "kohlenhydrate": 8.8,
+      "fett": 0.9
+    },
+    {
+      "name": "Knoblauch",
+      "kalorien": 149,
+      "protein": 6.4,
+      "kohlenhydrate": 33.1,
+      "fett": 0.5
+    },
+    {
+      "name": "Sesamsamen",
+      "kalorien": 573,
+      "protein": 17.7,
+      "kohlenhydrate": 23.4,
+      "fett": 49.7
+    },
+    {
+      "name": "Buchweizen",
+      "kalorien": 343,
+      "protein": 13.3,
+      "kohlenhydrate": 71.5,
+      "fett": 3.4
+    },
+    {
+      "name": "Forelle",
+      "kalorien": 168,
+      "protein": 22.0,
+      "kohlenhydrate": 0.0,
+      "fett": 8.0
+    },
+    {
+      "name": "Rosinen",
+      "kalorien": 299,
+      "protein": 3.1,
+      "kohlenhydrate": 79.0,
+      "fett": 0.5
+    },
+    {
+      "name": "Mango",
+      "kalorien": 60,
+      "protein": 0.8,
+      "kohlenhydrate": 15.0,
+      "fett": 0.4
+    },
+    {
+      "name": "Hummus",
+      "kalorien": 177,
+      "protein": 7.9,
+      "kohlenhydrate": 14.3,
+      "fett": 9.6
+    },
+    {
+      "name": "Leinsamen",
+      "kalorien": 534,
+      "protein": 18.3,
+      "kohlenhydrate": 28.9,
+      "fett": 42.2
+    },
+    {
+      "name": "Parmesan",
+      "kalorien": 392,
+      "protein": 35.8,
+      "kohlenhydrate": 3.2,
+      "fett": 25.8
+    },
+    {
+      "name": "Artischocken",
+      "kalorien": 47,
+      "protein": 3.3,
+      "kohlenhydrate": 10.5,
+      "fett": 0.2
+    },
+    {
+      "name": "Aprikosen (getrocknet)",
+      "kalorien": 241,
+      "protein": 3.4,
+      "kohlenhydrate": 63.0,
+      "fett": 0.5
+    },
+    {
+      "name": "Rotkohl",
+      "kalorien": 31,
+      "protein": 1.4,
+      "kohlenhydrate": 7.4,
+      "fett": 0.2
+    },
+    {
+      "name": "Sardinen (in Öl)",
+      "kalorien": 208,
+      "protein": 24.6,
+      "kohlenhydrate": 0.0,
+      "fett": 11.5
+    },
+    {
+      "name": "Pistazien",
+      "kalorien": 560,
+      "protein": 20.3,
+      "kohlenhydrate": 27.5,
+      "fett": 45.4
+    },
+    {
+      "name": "Kichererbsenmehl",
+      "kalorien": 387,
+      "protein": 22.4,
+      "kohlenhydrate": 57.8,
+      "fett": 6.7
+    },
+    {
+      "name": "Buttermilch",
+      "kalorien": 40,
+      "protein": 3.3,
+      "kohlenhydrate": 4.8,
+      "fett": 0.9
+    },
+    {
+      "name": "Schwarze Bohnen",
+      "kalorien": 341,
+      "protein": 21.6,
+      "kohlenhydrate": 62.4,
+      "fett": 1.4
+    },
+    {
+      "name": "Amaranth",
+      "kalorien": 371,
+      "protein": 14.5,
+      "kohlenhydrate": 65.2,
+      "fett": 7.0
+    },
+    {
+      "name": "Kakaopulver (ungesüßt)",
+      "kalorien": 228,
+      "protein": 19.6,
+      "kohlenhydrate": 57.9,
+      "fett": 13.7
+    },
+    {
+      "name": "Rote Beete",
+      "kalorien": 43,
+      "protein": 1.6,
+      "kohlenhydrate": 9.6,
+      "fett": 0.2
+    },
+    {
+      "name": "Kürbispüree",
+      "kalorien": 34,
+      "protein": 1.0,
+      "kohlenhydrate": 8.0,
+      "fett": 0.1
+    }
+}
