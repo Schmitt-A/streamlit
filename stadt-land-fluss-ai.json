@@ -240,7 +240,23 @@
         "pflanze": ["Xanthorrhoea (Grasbaum)", "Xeranthemum (Trockenblume)", "Ximenia (Wildpflaume)"]
     },
     "y": {
-        "stadt": ["York (England)", "Yokohama (Japan)", "Yverdon-les-Bains (Schweiz)", "Yamoussoukro (Elfenbeinküste)"],
+        "stadt": ["York (England)", "Yokohama (Japan)", "Yverdon-les-Bains (Schweiz)", "Yamoussoukro (Elfenbeinküste)", "Yekaterinburg (Russland)", "Yiwu (China)"],
         "land": ["Es gibt kein Land mit dem Anfangsbuchstaben Y (außer Jemen, der mit J beginnt)"],
-        "fluss": ["Yukon (USA/Kanada)", "Yalong (China)", "Yamuna (Indien)", "Yenissei (Russland)"],
-        
+        "fluss": ["Yukon (USA/Kanada)", "Yalong (China)", "Yamuna (Indien)", "Yenissei (Russland)", "Yarra (Australien)", "Yellowstone (USA)"],
+        "name": ["Yuna", "Yuki", "Yuma", "Yannick", "Yasmin", "Yvonne", "Yara", "Yasin", "Yael"],
+        "beruf": ["YouTuber", "Yachtbauer", "Yogalehrer", "Yoga-Therapeut", "Youtuberin", "Yachtdesigner", "Yak-Hirte"],
+        "tier": ["Yak", "Yeti-Krabbe", "Yellowstone-Elch", "Yucatan-Blauhäher", "Yucatan-Hörnchen", "Yapok (Wasseropossum)", "Yaffle (Grünspecht)"],
+        "marke": ["Yamaha", "Yeti", "Ykk", "York Fitness", "Yves Saint Laurent", "Yakult", "YSL Beauty", "Yogi Tea"],
+        "pflanze": ["Yucca", "Ysop", "Yams", "Yucca-Palme", "Ylang-Ylang", "Yorkshire-Fog (Grasart)"]
+    },
+    "z": {
+    "stadt": ["Zweibrücken (Deutschland)", "Zwiesel (Deutschland)", "Zwickau (Deutschland)", "Zürich (Schweiz)", "Zabol (Iran)", "Zagreb (Kroatien)", "Zaragoza (Spanien)", "Zhengzhou (China)", "Zakynthos (Griechenland)"],
+    "land": ["Zypern", "Zentralafrikanische Republik"],
+    "fluss": ["Zschopau (Deutschland)", "Zusam (Deutschland)", "Zihl (Schweiz)", "Zambezi (Afrika)", "Zbruch (Ukraine)", "Zwickauer Mulde (Deutschland)"],
+    "name": ["Zoe", "Zelda", "Zoro", "Zoella", "Zilla", "Zacharias", "Zara", "Zayn", "Zümrüt"],
+    "beruf": ["Zahnmedizinischer Fachangestellter", "Zahntechniker", "Zimmerer", "Zerspanungsmechaniker", "Zoologe", "Zollbeamter", "Zuckerbäcker"],
+    "tier": ["Zander", "Zackeneule", "Zaunkönig", "Zebrahai", "Zechgraumull", "Zebra", "Zitteraal", "Ziesel"],
+    "marke": ["Zack", "Zara", "Zeiss", "Zero", "Zewa", "Zwilling", "Zippo", "Zotter", "ZDF", "Zara Home"],
+    "pflanze": ["Zebragras", "Zitronenbaum", "Zypresse", "Zucchini", "Zierkirsche", "Zwiebel", "Zinnie"]
+}
+}
