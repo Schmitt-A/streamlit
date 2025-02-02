@@ -1,0 +1,1763 @@
+{
+  "a": {
+    "stadt": [
+      "Aalen",
+      "Aachen",
+      "Amberg",
+      "Athen (Griechenland)",
+      "Aschaffenburg",
+      "Augsburg",
+      "Amsterdam (Niederlande)",
+      "Aarhus (Dänemark)",
+      "Antwerpen (Belgien)"
+    ],
+    "land": [
+      "Albanien",
+      "Armenien",
+      "Andorra",
+      "Algerien",
+      "Australien",
+      "Argentinien",
+      "Angola",
+      "Antigua und Barbuda"
+    ],
+    "fluss": [
+      "Aller (Deutschland)",
+      "Amazonas (Brasilien)",
+      "Alz (Deutschland)",
+      "Ätran (Schweden)",
+      "Aa (Deutschland)",
+      "Amur (Russland/China)",
+      "Arno (Italien)"
+    ],
+    "name": [
+      "Alexander",
+      "Alexandra",
+      "Anette",
+      "Amanda",
+      "Anton",
+      "Anna",
+      "Arthur",
+      "Aylin"
+    ],
+    "beruf": [
+      "Atomphysiker",
+      "Anlagenbauer",
+      "Autor",
+      "Astronaut",
+      "Architekt",
+      "Apotheker",
+      "Agronom"
+    ],
+    "tier": [
+      "Aal",
+      "Affe",
+      "Ara",
+      "Ameise",
+      "Ameisenbär",
+      "Ameisenlöwe",
+      "Alpaka"
+    ],
+    "marke": [
+      "Adidas",
+      "Abus",
+      "Alpina",
+      "Asics",
+      "Audi",
+      "Apple",
+      "Aldi"
+    ],
+    "pflanze": [
+      "Agave",
+      "Apfel",
+      "Avocado",
+      "Ananas",
+      "Ahorn",
+      "Alge",
+      "Aloe Vera",
+      "Aronia"
+    ]
+  },
+  "b": {
+    "stadt": [
+      "Bamberg",
+      "Bonn",
+      "Böblingen",
+      "Boston",
+      "Birmingham",
+      "Bad Kreuznach",
+      "Bayreuth",
+      "Berlin",
+      "Barcelona (Spanien)",
+      "Budapest (Ungarn)"
+    ],
+    "land": [
+      "Belgien",
+      "Brasilien",
+      "Bolivien",
+      "Bermuda",
+      "Bahrain",
+      "Bosnien und Herzegowina",
+      "Belize",
+      "Bangladesch",
+      "Bhutan"
+    ],
+    "fluss": [
+      "Bigge (Deutschland)",
+      "Brahmaputra (Indien)",
+      "Belaja (Russland)",
+      "Blies (Frankreich und Deutschland)",
+      "Bode (Deutschland)",
+      "Bureya (Russland)"
+    ],
+    "name": [
+      "Benjamin",
+      "Benny",
+      "Bernd",
+      "Barbara",
+      "Beate",
+      "Boris",
+      "Birgit",
+      "Bianca",
+      "Bastian"
+    ],
+    "beruf": [
+      "Busfahrer",
+      "Beamter",
+      "Bundesminister",
+      "Bäcker",
+      "Bankkaufmann",
+      "Bauzeichner",
+      "Bestatter",
+      "Biologe",
+      "Bergführer"
+    ],
+    "tier": [
+      "Bär",
+      "Biene",
+      "Beluga",
+      "Biber",
+      "Bison",
+      "Blaumeise",
+      "Blauwal",
+      "Braunbär",
+      "Buckelwal"
+    ],
+    "marke": [
+      "Barbour",
+      "Bench",
+      "Blomus",
+      "Bosch",
+      "Braun",
+      "BMW",
+      "Bogner",
+      "Boss"
+    ],
+    "pflanze": [
+      "Bärlauch",
+      "Begonie",
+      "Bambus",
+      "Brombeere",
+      "Buche"
+    ]
+  },
+  "c": {
+    "stadt": [
+      "Chemnitz (Deutschland)",
+      "Cuxhaven (Deutschland)",
+      "Castrop-Rauxel (Deutschland)",
+      "Charleston (USA)",
+      "Calvi (Frankreich)",
+      "Cancún (Mexiko)",
+      "Chengdu (China)"
+    ],
+    "land": [
+      "China",
+      "Costa Rica",
+      "Chile",
+      "Cookinseln",
+      "Côte d'Ivoire",
+      "Curaçao"
+    ],
+    "fluss": [
+      "Chemnitz (Deutschland)",
+      "Colorado (USA)",
+      "Charente (Frankreich)",
+      "Churchill River (Kanada)",
+      "Cooper Creek (Australien)",
+      "Congo (Afrika)",
+      "Chambeshi (Sambia)"
+    ],
+    "name": [
+      "Christian",
+      "Claus",
+      "Christoph",
+      "Conni",
+      "Clara",
+      "Carolin",
+      "Clemens"
+    ],
+    "beruf": [
+      "Chemiker",
+      "Chorleiter",
+      "Chauffeur",
+      "Chirurg",
+      "Comedian",
+      "Cyber-Sicherheitsexperte"
+    ],
+    "tier": [
+      "Chamäleon",
+      "Chinchilla",
+      "Chihuahua",
+      "Clownfisch",
+      "Capybara",
+      "Coyote"
+    ],
+    "marke": [
+      "C & A",
+      "Calvin Klein",
+      "Camper",
+      "Casio",
+      "CAT",
+      "Coach",
+      "Columbia",
+      "Crivit",
+      "Coca-Cola"
+    ],
+    "pflanze": [
+      "Kapuzinerkresse",
+      "Chilli",
+      "Christrose",
+      "Clematis",
+      "Cranberry",
+      "Chrysantheme"
+    ]
+  },
+  "d": {
+    "stadt": [
+      "Dresden (Deutschland)",
+      "Dortmund (Deutschland)",
+      "Dorsten (Deutschland)",
+      "Dublin (Irland)",
+      "Dayton (USA)",
+      "Dubai (VAE)",
+      "Dakar (Senegal)"
+    ],
+    "land": [
+      "Deutschland",
+      "Dänemark",
+      "Dominikanische Republik",
+      "Dschibuti",
+      "Dominica",
+      "Demokratische Republik Kongo"
+    ],
+    "fluss": [
+      "Donau (Europa)",
+      "Don (Russland)",
+      "Dnister (Ukraine)",
+      "Dinkel (Deutschland)",
+      "Dordogne (Frankreich)",
+      "Drammen (Norwegen)"
+    ],
+    "name": [
+      "Daniel",
+      "Dennis",
+      "Dora",
+      "Detlef",
+      "Diana",
+      "Doris",
+      "Damian"
+    ],
+    "beruf": [
+      "Doktor",
+      "Dachdecker",
+      "Designer",
+      "Drogist",
+      "Data Scientist",
+      "Diplomat"
+    ],
+    "tier": [
+      "Dachs",
+      "Diamanttaube",
+      "Dingo",
+      "Distelfink",
+      "Dorsch",
+      "Dackel",
+      "Dalmatiner",
+      "Dromedar"
+    ],
+    "marke": [
+      "Dakine",
+      "DeinDesign",
+      "Diesel",
+      "Dockers",
+      "Domo",
+      "Dolce & Gabbana",
+      "Dyson"
+    ],
+    "pflanze": [
+      "Dattel",
+      "Distel",
+      "Dahlie",
+      "Dill",
+      "Drachenbaum"
+    ]
+  },
+  "e": {
+    "stadt": [
+      "Essen (Deutschland)",
+      "Esslingen (Deutschland)",
+      "Exeter (England)",
+      "Eindhoven (Niederlande)",
+      "Emden",
+      "Edinburgh (Schottland)",
+      "Erfurt (Deutschland)"
+    ],
+    "land": [
+      "Estland",
+      "Ecuador",
+      "El Salvador",
+      "Eritrea",
+      "Eswatini",
+      "Equatorialguinea"
+    ],
+    "fluss": [
+      "Ems (Deutschland)",
+      "Emscher (Deutschland)",
+      "Elbe (Europa)",
+      "Euphrat (Asien)",
+      "Ebro (Spanien)",
+      "Enns (Österreich)"
+    ],
+    "name": [
+      "Emma",
+      "Elara",
+      "Erika",
+      "Ella",
+      "Emil",
+      "Edgar",
+      "Elisabeth",
+      "Elias"
+    ],
+    "beruf": [
+      "Elektriker",
+      "Estrichleger",
+      "Erzieher",
+      "Eisenbahner",
+      "Eventmanager",
+      "Ethnologe"
+    ],
+    "tier": [
+      "Esel",
+      "Elefant",
+      "Emu",
+      "Eichelhäher",
+      "Eisbär",
+      "Elch"
+    ],
+    "marke": [
+      "Eastpak",
+      "Ecco",
+      "Edding",
+      "Einhell",
+      "Ergobag",
+      "Esprit",
+      "Eucerin",
+      "Everlast",
+      "Edeka"
+    ],
+    "pflanze": [
+      "Erbse",
+      "Eichel",
+      "Erdnuss",
+      "Erdbeere",
+      "Efeu",
+      "Eukalyptus"
+    ]
+  },
+  "f": {
+    "stadt": [
+      "Frankfurt am Main (Deutschland)",
+      "Frankfurt (Oder) (Deutschland)",
+      "Fürth (Deutschland)",
+      "Faro (Portugal)",
+      "Florenz (Italien)",
+      "Fort Lauderdale (USA)",
+      "Freiburg (Deutschland)",
+      "Fukuoka (Japan)"
+    ],
+    "land": [
+      "Finnland",
+      "Frankreich",
+      "Fidschi",
+      "Philippinen",
+      "Färöer Inseln"
+    ],
+    "fluss": [
+      "Fulda (Deutschland)",
+      "Fraser River (Kanada)",
+      "Fly (Neuguinea)"
+    ],
+    "name": [
+      "Friderike",
+      "Frida",
+      "Florin",
+      "Fritz",
+      "Franz",
+      "Franziska",
+      "Fabian",
+      "Fatima"
+    ],
+    "beruf": [
+      "Fliesenleger",
+      "Friseur",
+      "Falkner",
+      "Fotograf",
+      "Feuerwehrmann"
+    ],
+    "tier": [
+      "Fischotter",
+      "Felsentaube",
+      "Frettchen",
+      "Flamingo",
+      "Faultier"
+    ],
+    "marke": [
+      "Fendi",
+      "Faber Castell",
+      "Fackelmann",
+      "Ferrari",
+      "Fitbit",
+      "Fjällräven",
+      "Fossil",
+      "Ford"
+    ],
+    "pflanze": [
+      "Fichte",
+      "Fingerhut",
+      "Feldsalat",
+      "Farn",
+      "Feige"
+    ]
+  },
+  "g": {
+    "stadt": [
+      "Gera (Deutschland)",
+      "Gerolstein (Deutschland)",
+      "Göteborg (Schweden)",
+      "Genf (Schweiz)",
+      "Greenville (USA)",
+      "Graz (Österreich)",
+      "Guangzhou (China)"
+    ],
+    "land": [
+      "Georgien",
+      "Ghana",
+      "Griechenland",
+      "Guinea",
+      "Gambia",
+      "Gabun",
+      "Grenada"
+    ],
+    "fluss": [
+      "Ganges (Indien)",
+      "Gera (Deutschland)",
+      "Green River (USA)",
+      "Godavari (Indien)",
+      "Gail (Österreich)",
+      "Gambia (Afrika)"
+    ],
+    "name": [
+      "Guido",
+      "Georg",
+      "Gerald",
+      "Gesine",
+      "Gerda",
+      "Greta",
+      "Gloria",
+      "Gunnar"
+    ],
+    "beruf": [
+      "Gärtner",
+      "Gleisbauer",
+      "Geologe",
+      "Gerüstbauer",
+      "Glasbläser",
+      "Grafikdesigner"
+    ],
+    "tier": [
+      "Giraffe",
+      "Gnu",
+      "Goldfisch",
+      "Gazelle",
+      "Gepard",
+      "Gorilla",
+      "Guppy"
+    ],
+    "marke": [
+      "Gabor",
+      "Gardena",
+      "Garmin",
+      "Garnier",
+      "Gazelle",
+      "Geox",
+      "Goodyear",
+      "Grohe",
+      "Grundig"
+    ],
+    "pflanze": [
+      "Grünkohl",
+      "Gerste",
+      "Ginster",
+      "Gras",
+      "Gummibaum",
+      "Gartenkresse"
+    ]
+  },
+  "h": {
+    "stadt": [
+      "Hannover (Deutschland)",
+      "Herne (Deutschland)",
+      "Hamm (Deutschland)",
+      "Huntsville (USA)",
+      "Haugesund (Norwegen)",
+      "Hamburg (Deutschland)",
+      "Hanoi (Vietnam)"
+    ],
+    "land": [
+      "Haiti",
+      "Honduras",
+      "Hongkong (China)",
+      "Heard und McDonaldinseln"
+    ],
+    "fluss": [
+      "Havel (Deutschland)",
+      "Hunte (Deutschland)",
+      "Hudson River (USA)",
+      "Huang He (China)",
+      "Hornindalselva (Norwegen)"
+    ],
+    "name": [
+      "Hanna",
+      "Hans",
+      "Hermine",
+      "Henry",
+      "Harry",
+      "Henrik",
+      "Hendrik",
+      "Helena",
+      "Hugo"
+    ],
+    "beruf": [
+      "Hausmeister",
+      "Historiker",
+      "Hundezüchter",
+      "Hebamme",
+      "Holzfäller"
+    ],
+    "tier": [
+      "Hermelin",
+      "Hase",
+      "Hund",
+      "Huhn",
+      "Hornisse",
+      "Hai",
+      "Hirsch"
+    ],
+    "marke": [
+      "Haba",
+      "Hagen",
+      "Haix",
+      "Hama",
+      "Hecht",
+      "Hexal",
+      "Hollister",
+      "Höffner",
+      "Huawei"
+    ],
+    "pflanze": [
+      "Haselnuss",
+      "Heide",
+      "Hanf",
+      "Hibiskus",
+      "Hortensie"
+    ]
+  },
+  "i": {
+    "stadt": [
+      "Ingolstadt (Deutschland)",
+      "Iserlohn (Deutschland)",
+      "Idar-Oberstein (Deutschland)",
+      "Indianapolis (USA)",
+      "Irkutsk (Russland)",
+      "Istanbul (Türkei)",
+      "Innsbruck (Österreich)"
+    ],
+    "land": [
+      "Indien",
+      "Indonesien",
+      "Irak",
+      "Iran",
+      "Island",
+      "Israel",
+      "Italien"
+    ],
+    "fluss": [
+      "Isar (Deutschland)",
+      "Inn (Deutschland)",
+      "Indus (Indien)",
+      "Irrawaddy (Asien)",
+      "Iller (Deutschland)"
+    ],
+    "name": [
+      "Igor",
+      "Ingo",
+      "Ida",
+      "Ina",
+      "Iris",
+      "Ilona",
+      "Ivan"
+    ],
+    "beruf": [
+      "Ingenieur",
+      "Imker",
+      "IT-Techniker",
+      "Informatiker",
+      "Internist",
+      "Illustrator"
+    ],
+    "tier": [
+      "Igel",
+      "Iltis",
+      "Islandpony",
+      "Iberisches Wildschwein",
+      "Impala",
+      "Indri"
+    ],
+    "marke": [
+      "Icepeak",
+      "Ideal",
+      "Ikea",
+      "Indigo",
+      "Intex",
+      "Intel",
+      "IWC"
+    ],
+    "pflanze": [
+      "Iris",
+      "Ingwer",
+      "Ilex",
+      "Isländisches Moos"
+    ]
+  },
+  "j": {
+    "stadt": [
+      "Jena (Deutschland)",
+      "Jülich (Deutschland)",
+      "Jever (Deutschland)",
+      "Johannesburg (Südafrika)",
+      "Jacksonville (USA)",
+      "Jakobstad (Finnland)",
+      "Jakarta (Indonesien)"
+    ],
+    "land": [
+      "Jamaika",
+      "Jemen",
+      "Japan",
+      "Jordanien"
+    ],
+    "fluss": [
+      "Jagst (Deutschland)",
+      "Jade (Deutschland)",
+      "Jangtsekiang (China)",
+      "Jenissei (Russland)",
+      "Jordan (Naher Osten)"
+    ],
+    "name": [
+      "Jan",
+      "Jana",
+      "Johan",
+      "Johanna",
+      "Jördis",
+      "Jörn",
+      "Jasmin",
+      "Jeremy"
+    ],
+    "beruf": [
+      "Journalist",
+      "Jugenderzieher",
+      "Justizwachmeister",
+      "Juwelier",
+      "Java-Entwickler"
+    ],
+    "tier": [
+      "Jaguar",
+      "Jakobsmuschel"
+    ],
+    "marke": [
+      "Jack Jones",
+      "Jack Wolfskin",
+      "Jaguar",
+      "Jako",
+      "Jansport",
+      "Jumbo",
+      "Jägermeister",
+      "JBL"
+    ],
+    "pflanze": [
+      "Johannisbeere",
+      "Jasmin",
+      "Johanniskraut",
+      "Josta",
+      "Judasbaum"
+    ]
+  },
+  "k": {
+    "stadt": [
+      "Köln (Deutschland)",
+      "Kassel (Deutschland)",
+      "Kappeln (Deutschland)",
+      "Kiel (Deutschland)",
+      "Krakau (Polen)",
+      "Kursk (Russland)",
+      "Kapstadt (Südafrika)"
+    ],
+    "land": [
+      "Kambodscha",
+      "Katar",
+      "Kolumbien",
+      "Kroatien",
+      "Kuba",
+      "Kuwait",
+      "Kirgisistan"
+    ],
+    "fluss": [
+      "Kyll (Deutschland)",
+      "Kinzig (Deutschland)",
+      "Kongo (Afrika)",
+      "Kasai (Afrika)",
+      "Kolyma (Russland)",
+      "Krishna (Indien)"
+    ],
+    "name": [
+      "Kerstin",
+      "Kai",
+      "Karl",
+      "Klara",
+      "Kevin",
+      "Kim",
+      "Konrad"
+    ],
+    "beruf": [
+      "Küster",
+      "Kantor",
+      "Konditor",
+      "Kardiologe",
+      "Kanalbauer",
+      "Kameramann",
+      "Koch"
+    ],
+    "tier": [
+      "Kuh",
+      "Katze",
+      "Kamel",
+      "Kolibri",
+      "Kohlmeise",
+      "Krokodil",
+      "Koala"
+    ],
+    "marke": [
+      "K Swiss",
+      "Kappa",
+      "Kampa",
+      "KangaROOS",
+      "Karl Lagerfeld",
+      "Kartell",
+      "Keen",
+      "Kempa",
+      "Kettler",
+      "KitchenAid",
+      "Kosmos",
+      "Kodak"
+    ],
+    "pflanze": [
+      "Kirsche",
+      "Klee",
+      "Kakao",
+      "Kaktus",
+      "Kamille"
+    ]
+  },
+  "l": {
+    "stadt": [
+      "Ludwigshafen (Deutschland)",
+      "Ludwigsburg (Deutschland)",
+      "Lyon (Frankreich)",
+      "London (England)",
+      "Los Angeles (USA)",
+      "Leipzig (Deutschland)",
+      "Lissabon (Portugal)"
+    ],
+    "land": [
+      "Lettland",
+      "Libanon",
+      "Liberia",
+      "Libyen",
+      "Luxemburg",
+      "Laos",
+      "Lesotho"
+    ],
+    "fluss": [
+      "Lech (Deutschland)",
+      "Lippe (Deutschland)",
+      "Lahn (Deutschland)",
+      "Limpopo (Afrika)",
+      "Lena (Russland)",
+      "Loire (Frankreich)"
+    ],
+    "name": [
+      "Lara",
+      "Leonie",
+      "Lina",
+      "Leon",
+      "Laureen",
+      "Lukas",
+      "Luisa",
+      "Liam"
+    ],
+    "beruf": [
+      "Landwirt",
+      "Logopäde",
+      "Lehrer",
+      "Lagerist",
+      "Lackierer",
+      "Lektor"
+    ],
+    "tier": [
+      "Leopard",
+      "Lama",
+      "Löwe",
+      "Lemur",
+      "Lachs"
+    ],
+    "marke": [
+      "Louis Vuitton",
+      "Lacoste",
+      "Lafuma",
+      "Lands End",
+      "Lavera",
+      "Lego",
+      "Leitz",
+      "Levis",
+      "Lotto",
+      "Lowa",
+      "L’Oréal",
+      "Lenovo"
+    ],
+    "pflanze": [
+      "Litchi",
+      "Lavendel",
+      "Liane",
+      "Linde",
+      "Löwenzahn"
+    ]
+  },
+  "m": {
+    "stadt": [
+      "München (Deutschland)",
+      "Mainz (Deutschland)",
+      "Montreal (Kanada)",
+      "Melbourne (Australien)",
+      "Mannheim (Deutschland)",
+      "Mailand (Italien)",
+      "Madrid (Spanien)"
+    ],
+    "land": [
+      "Malta",
+      "Malawi",
+      "Monaco",
+      "Mali",
+      "Mexiko",
+      "Marokko",
+      "Nordmazedonien"
+    ],
+    "fluss": [
+      "Mosel (Deutschland)",
+      "Mulde (Deutschland)",
+      "Mississippi (USA)",
+      "Maas (Niederlande)",
+      "Mekong (Asien)"
+    ],
+    "name": [
+      "Malte",
+      "Marvin",
+      "Marion",
+      "Mia",
+      "Maximilian"
+    ],
+    "beruf": [
+      "Maler",
+      "Maurer",
+      "Mediengestalter",
+      "Mathematiker",
+      "Musiker",
+      "Meteorologe"
+    ],
+    "tier": [
+      "Mücke",
+      "Malaiischer Bär",
+      "Mungo",
+      "Marder"
+    ],
+    "marke": [
+      "Mammut",
+      "Mango",
+      "Marc O Polo",
+      "Meindl",
+      "Michael Kors",
+      "Mustang",
+      "Mercedes-Benz"
+    ],
+    "pflanze": [
+      "Mohn",
+      "Mais",
+      "Mangold",
+      "Mistel",
+      "Magnolie"
+    ]
+  },
+  "n": {
+    "stadt": [
+      "Nürnberg (Deutschland)",
+      "Neuss (Deutschland)",
+      "Nürtingen (Deutschland)",
+      "New York (USA)",
+      "Narvik (Norwegen)",
+      "Nairobi (Kenia)",
+      "Nizza (Frankreich)"
+    ],
+    "land": [
+      "Norwegen",
+      "Namibia",
+      "Nepal",
+      "Niederlande",
+      "Niger",
+      "Neuseeland",
+      "Nicaragua",
+      "Nigeria"
+    ],
+    "fluss": [
+      "Neckar (Deutschland)",
+      "Nahe (Deutschland)",
+      "Nagold (Deutschland)",
+      "Nil (Afrika)",
+      "Nelson River (Kanada)",
+      "Niger (Afrika)"
+    ],
+    "name": [
+      "Noel",
+      "Nele",
+      "Namika",
+      "Natalie",
+      "Niko",
+      "Nadine",
+      "Niklas"
+    ],
+    "beruf": [
+      "Notfallsanitäter",
+      "Notarzt",
+      "Neurowissenschaftler",
+      "Nuklearingenieur"
+    ],
+    "tier": [
+      "Nasenbär",
+      "Nandu",
+      "Narwal"
+    ],
+    "marke": [
+      "Napoleon",
+      "Neudorff",
+      "New Balance",
+      "Next",
+      "Nici",
+      "Nike",
+      "Nuk",
+      "Nutella",
+      "Nikon"
+    ],
+    "pflanze": [
+      "Nelke",
+      "Nordmanntanne",
+      "Narzisse",
+      "Nektarine"
+    ]
+  },
+  "o": {
+    "stadt": [
+      "Oldenburg (Deutschland)",
+      "Olpe (Deutschland)",
+      "Oelde (Deutschland)",
+      "Ostrava (Tschechien)",
+      "Omaha (USA)",
+      "Oslo (Norwegen)",
+      "Odessa (Ukraine)"
+    ],
+    "land": [
+      "Oman",
+      "Österreich",
+      "Osttimor"
+    ],
+    "fluss": [
+      "Oder (Europa)",
+      "Oker (Deutschland)",
+      "Orinoco (Südamerika)",
+      "Olenjok (Russland)",
+      "Ob (Russland)",
+      "Okavango (Afrika)"
+    ],
+    "name": [
+      "Ole",
+      "Olaf",
+      "Otto",
+      "Olivia",
+      "Oskar",
+      "Ophelia"
+    ],
+    "beruf": [
+      "Orthopädieschuhmacher",
+      "Operationstechnischer Assistent",
+      "Oberflächenbeschichter",
+      "Ozeanograph"
+    ],
+    "tier": [
+      "Orang-Utan",
+      "Ochse",
+      "Okapi",
+      "Otter",
+      "Orca"
+    ],
+    "marke": [
+      "Oneill",
+      "Oakley",
+      "Obi",
+      "Odlo",
+      "Old Spice",
+      "Omega",
+      "Oral B",
+      "Ostmann",
+      "Otto",
+      "Opel"
+    ],
+    "pflanze": [
+      "Osterglocke",
+      "Oregano",
+      "Olivenbaum",
+      "Orchidee"
+    ]
+  },
+  "p": {
+    "stadt": [
+      "Potsdam (Deutschland)",
+      "Paderborn (Deutschland)",
+      "Pforzheim (Deutschland)",
+      "Porto (Portugal)",
+      "Portland (USA)",
+      "Prag (Tschechien)",
+      "Peking (China)"
+    ],
+    "land": [
+      "Polen",
+      "Portugal",
+      "Panama",
+      "Pakistan",
+      "Peru",
+      "Paraguay",
+      "Philippinen"
+    ],
+    "fluss": [
+      "Pader (Deutschland)",
+      "Peene (Deutschland)",
+      "Prüm (Deutschland)",
+      "Po (Italien)",
+      "Paraná (Südamerika)"
+    ],
+    "name": [
+      "Phillip",
+      "Paul",
+      "Peter",
+      "Pascal",
+      "Paula",
+      "Patricia",
+      "Patrick"
+    ],
+    "beruf": [
+      "Physiotherapeut",
+      "Podologe",
+      "Produktionstechnologe",
+      "Patentanwaltsfachangestellter",
+      "Pilot",
+      "Programmierer"
+    ],
+    "tier": [
+      "Pferd",
+      "Pinguin",
+      "Puma",
+      "Panda"
+    ],
+    "marke": [
+      "Parkside",
+      "Pelikan",
+      "Peter Hahn",
+      "Philips",
+      "Pikolinos",
+      "Police",
+      "Powerfix",
+      "Puky",
+      "Puma",
+      "Porsche"
+    ],
+    "pflanze": [
+      "Petersilie",
+      "Pfeffer",
+      "Papaya",
+      "Paprika",
+      "Palme",
+      "Passionsblume"
+    ]
+  },
+  "q": {
+    "stadt": [
+      "Quickborn (Deutschland)",
+      "Quedlinburg (Deutschland)",
+      "Quakenbrück (Deutschland)",
+      "Quebec (Kanada)",
+      "Quimper (Frankreich)",
+      "Qingdao (China)"
+    ],
+    "land": [
+      "Es gibt kein Land mit dem Anfangsbuchstaben Q"
+    ],
+    "fluss": [
+      "Queich (Deutschland)",
+      "Queis (Polen)",
+      "Qu’Appelle River (Kanada)",
+      "Qiantang (China)"
+    ],
+    "name": [
+      "Quinn",
+      "Quentin",
+      "Quirina"
+    ],
+    "beruf": [
+      "Qualitätsmanager",
+      "Quantenphysiker",
+      "Quereinsteiger"
+    ],
+    "tier": [
+      "Qualle",
+      "Quastenflosser",
+      "Quokka",
+      "Quetzal (Vogel)"
+    ],
+    "marke": [
+      "Q&Q",
+      "Qdo",
+      "Quadra",
+      "Quaker",
+      "Qualitex",
+      "Quick Star",
+      "Quiksilver",
+      "Qantas"
+    ],
+    "pflanze": [
+      "Quitte",
+      "Quisqualis"
+    ]
+  },
+  "r": {
+    "stadt": [
+      "Regensburg (Deutschland)",
+      "Rheine (Deutschland)",
+      "Rheinbach (Deutschland)",
+      "Rom (Italien)",
+      "Reno (USA)",
+      "Rio de Janeiro (Brasilien)",
+      "Riga (Lettland)"
+    ],
+    "land": [
+      "Ruanda",
+      "Russland",
+      "Rumänien",
+      "Réunion (Frankreich)"
+    ],
+    "fluss": [
+      "Rhein (Deutschland)",
+      "Ruhr (Deutschland)",
+      "Rur (Deutschland)",
+      "Rio Grande (USA)",
+      "Rhone (Schweiz und Frankreich)",
+      "Roter Fluss (Vietnam)"
+    ],
+    "name": [
+      "Rainer",
+      "Rene",
+      "Rolf",
+      "Rudolf",
+      "Rebecca",
+      "Ronja",
+      "Robert"
+    ],
+    "beruf": [
+      "Rechtsanwaltsfachangestellter",
+      "Restaurantfachmann",
+      "Robotiker",
+      "Rettungssanitäter"
+    ],
+    "tier": [
+      "Rentier",
+      "Rotfuchs",
+      "Rochen",
+      "Rotkehlchen"
+    ],
+    "marke": [
+      "Rabe",
+      "Rainbow",
+      "Ralph Lauren",
+      "Rauch",
+      "Reebok",
+      "Reima",
+      "Richter",
+      "Rieker",
+      "Roller",
+      "Roth",
+      "Rösle",
+      "Ritter Sport"
+    ],
+    "pflanze": [
+      "Rote Beete",
+      "Rose",
+      "Rucola",
+      "Rhabarber"
+    ]
+  },
+  "s": {
+    "stadt": [
+      "Siegen (Deutschland)",
+      "Siegburg (Deutschland)",
+      "Schleswig (Deutschland)",
+      "Sydney (Australien)",
+      "Salzburg (Österreich)",
+      "Seoul (Südkorea)",
+      "Sofia (Bulgarien)"
+    ],
+    "land": [
+      "Spanien",
+      "Slowakei",
+      "Schweiz",
+      "Senegal",
+      "Syrien",
+      "Samoa",
+      "Sambia",
+      "Schweden",
+      "Singapur"
+    ],
+    "fluss": [
+      "Sieg (Deutschland)",
+      "Spree (Deutschland)",
+      "Schwentine (Deutschland)",
+      "Seine (Frankreich)",
+      "Sambesi (Afrika)",
+      "Save (Afrika)"
+    ],
+    "name": [
+      "Sandra",
+      "Siegfried",
+      "Sabina",
+      "Sabrina",
+      "Simone",
+      "Sven",
+      "Silvia",
+      "Sophie",
+      "Stefan"
+    ],
+    "beruf": [
+      "Schauspieler",
+      "Schornsteinfeger",
+      "Sportlehrer",
+      "Straßenwärter",
+      "Straßenbauer",
+      "Systemelektroniker",
+      "Softwareentwickler"
+    ],
+    "tier": [
+      "Schildkröte",
+      "Schnecke",
+      "Seehund",
+      "Seepferdchen",
+      "Schaf",
+      "Spinne",
+      "Skorpion",
+      "Schwan",
+      "Schwein",
+      "Storch"
+    ],
+    "marke": [
+      "S Oliver",
+      "Salewa",
+      "Salomon",
+      "Samsung",
+      "Saucony",
+      "Scout",
+      "Stihl",
+      "Stone Island",
+      "Swatch",
+      "Siemens"
+    ],
+    "pflanze": [
+      "Salbei",
+      "Seegras",
+      "Salat",
+      "Sonnenblume",
+      "Spargel",
+      "Steinpilz"
+    ]
+  },
+  "t": {
+    "stadt": [
+      "Tübingen (Deutschland)",
+      "Tönning (Deutschland)",
+      "Tampere (Finnland)",
+      "Turin (Italien)",
+      "Toledo (USA)",
+      "Tauberbischofsheim (Deutschland)",
+      "Taipeh (Taiwan)"
+    ],
+    "land": [
+      "Thailand",
+      "Türkei",
+      "Turkmenistan",
+      "Tunesien",
+      "Taiwan",
+      "Togo",
+      "Tschad",
+      "Tansania",
+      "Tonga"
+    ],
+    "fluss": [
+      "Trave (Deutschland)",
+      "Tauber (Deutschland)",
+      "Themse (England)",
+      "Tiber (Italien)",
+      "Tura (Russland)",
+      "Tigris (Irak)"
+    ],
+    "name": [
+      "Timo",
+      "Tammo",
+      "Tim",
+      "Tom",
+      "Torben",
+      "Tina",
+      "Thomas",
+      "Tobias",
+      "Theresa"
+    ],
+    "beruf": [
+      "Textillaborant",
+      "Textilreiniger",
+      "Techniker",
+      "Tierarzt",
+      "Taxifahrer"
+    ],
+    "tier": [
+      "Tiger",
+      "Tintenfisch",
+      "Taube",
+      "Thunfisch",
+      "Tapir",
+      "Termite"
+    ],
+    "marke": [
+      "Tchibo",
+      "Tefal",
+      "Tesa",
+      "The North Face",
+      "Thule",
+      "Titan",
+      "Tom Tailor",
+      "Toom",
+      "Telekom",
+      "Toyota"
+    ],
+    "pflanze": [
+      "Tomate",
+      "Tanne",
+      "Tulpe",
+      "Tabak",
+      "Tüpfelfarn",
+      "Thymian",
+      "Teebaum"
+    ]
+  },
+  "u": {
+    "stadt": [
+      "Ulm (Deutschland)",
+      "Uelzen (Deutschland)",
+      "Unna (Deutschland)",
+      "Ube (Japan)",
+      "Ulsan (Südkorea)",
+      "Utrecht (Niederlande)",
+      "Ulan-Ude (Russland)"
+    ],
+    "land": [
+      "Uruguay",
+      "Ukraine",
+      "Ungarn",
+      "USA",
+      "Uganda",
+      "Usbekistan"
+    ],
+    "fluss": [
+      "Urft (Deutschland)",
+      "Unstrut (Deutschland)",
+      "Ural (Russland)",
+      "Usumacinta (Mexiko/Guatemala)"
+    ],
+    "name": [
+      "Ursula",
+      "Ute",
+      "Uwe",
+      "Ulrike",
+      "Ulrich",
+      "Udo"
+    ],
+    "beruf": [
+      "Uhrmacher",
+      "Umweltschutztechnischer Assistent",
+      "Übersetzer",
+      "U-Boot-Kapitän"
+    ],
+    "tier": [
+      "Uhu",
+      "Uferschnepfe",
+      "Uferschwalbe",
+      "Uakari (Affe)"
+    ],
+    "marke": [
+      "Uhu",
+      "Umbro",
+      "Under Armour",
+      "Unicorn",
+      "Unimet",
+      "Universal",
+      "Ursus",
+      "Uvex",
+      "Uber"
+    ],
+    "pflanze": [
+      "Ulme",
+      "Usambaraveilchen",
+      "Ursinia"
+    ]
+  },
+  "v": {
+    "stadt": [
+      "Viersen (Deutschland)",
+      "Verl (Deutschland)",
+      "Vechta (Deutschland)",
+      "Valencia (Spanien)",
+      "Vancouver (Kanada)",
+      "Venedig (Italien)",
+      "Vilnius (Litauen)"
+    ],
+    "land": [
+      "Vanuatu",
+      "Venezuela",
+      "Vietnam",
+      "Vereinigte Arabische Emirate",
+      "Vatikanstadt"
+    ],
+    "fluss": [
+      "Vechte (Deutschland)",
+      "Vils (Deutschland)",
+      "Vaal (Südafrika)",
+      "Volta (Afrika)",
+      "Vishera (Russland)"
+    ],
+    "name": [
+      "Valentina",
+      "Valeria",
+      "Valerie",
+      "Valentin",
+      "Vincent",
+      "Victor",
+      "Vanessa"
+    ],
+    "beruf": [
+      "Veranstaltungskaufmann",
+      "Verfahrenstechnologe",
+      "Verfahrensmechaniker",
+      "Veterinärmediziner"
+    ],
+    "tier": [
+      "Vielfraß",
+      "Viper",
+      "Vogelspinne",
+      "Vampirfledermaus"
+    ],
+    "marke": [
+      "Volkswagen",
+      "Vans",
+      "Vaude",
+      "Velux",
+      "Venice Beach",
+      "Vespa",
+      "Vileda",
+      "Villeroy & Boch",
+      "Volvo"
+    ],
+    "pflanze": [
+      "Veilchen",
+      "Vogelbeere",
+      "Vanille"
+    ]
+  },
+  "w": {
+    "stadt": [
+      "Wuppertal (Deutschland)",
+      "Werne (Deutschland)",
+      "Würzburg (Deutschland)",
+      "Washington (USA)",
+      "Wien (Österreich)",
+      "Warschau (Polen)",
+      "Wellington (Neuseeland)"
+    ],
+    "land": [
+      "Weißrussland",
+      "Westsahara",
+      "Wallis und Futuna"
+    ],
+    "fluss": [
+      "Weser (Deutschland)",
+      "Werra (Deutschland)",
+      "Wupper (Deutschland)",
+      "Weichsel (Europa)",
+      "Wolga (Russland)",
+      "Waal (Niederlande)"
+    ],
+    "name": [
+      "Wolf",
+      "Willi",
+      "Winnie",
+      "Werner",
+      "Wilhelm",
+      "William",
+      "Wolfgang",
+      "Wiebke"
+    ],
+    "beruf": [
+      "Wärme-, Kälte- und Schallschutzisolierer",
+      "Weintechnologe",
+      "Werkfeuerwehrmann",
+      "Werkstoffprüfer",
+      "Webdesigner"
+    ],
+    "tier": [
+      "Waldfrosch",
+      "Walross",
+      "Wombat"
+    ],
+    "marke": [
+      "Wagner",
+      "Weber",
+      "Wehncke",
+      "Wella",
+      "Wesco",
+      "WMF",
+      "Wolf Garden",
+      "Wacom"
+    ],
+    "pflanze": [
+      "Weintraube",
+      "Waldmeister",
+      "Weide",
+      "Weizen"
+    ]
+  },
+  "x": {
+    "stadt": [
+      "Xanten (Deutschland)",
+      "Xiamen (China)",
+      "Xuzhou (China)",
+      "Xi’an (China)",
+      "Xalapa (Mexiko)"
+    ],
+    "land": [
+      "Es gibt kein Land mit dem Anfangsbuchstaben X"
+    ],
+    "fluss": [
+      "Xiliao He (China)",
+      "Xenios (Griechenland)"
+    ],
+    "name": [
+      "Xenia",
+      "Xandra",
+      "Xanthos",
+      "Xavier",
+      "Xaver"
+    ],
+    "beruf": [
+      "Xylofonist"
+    ],
+    "tier": [
+      "Xysticus audax (Spinne)",
+      "Xenesthis immanis (Vogelspinne)",
+      "Xiphias gladius (Schwertfisch)"
+    ],
+    "marke": [
+      "Xerox",
+      "Xiaomi",
+      "Xbox"
+    ],
+    "pflanze": [
+      "Xanthorrhoea (Grasbaum)",
+      "Xeranthemum (Trockenblume)",
+      "Ximenia (Wildpflaume)"
+    ]
+  },
+  "y": {
+    "stadt": [
+      "York (England)",
+      "Yokohama (Japan)",
+      "Yverdon-les-Bains (Schweiz)",
+      "Yamoussoukro (Elfenbeinküste)",
+      "Yekaterinburg (Russland)",
+      "Yiwu (China)"
+    ],
+    "land": [
+      "Es gibt kein Land mit dem Anfangsbuchstaben Y"
+    ],
+    "fluss": [
+      "Yukon (USA/Kanada)",
+      "Yalong (China)",
+      "Yamuna (Indien)",
+      "Yenissei (Russland)",
+      "Yarra (Australien)",
+      "Yellowstone (USA)"
+    ],
+    "name": [
+      "Yuna",
+      "Yuki",
+      "Yuma",
+      "Yannick",
+      "Yasmin",
+      "Yvonne",
+      "Yara",
+      "Yasin",
+      "Yael"
+    ],
+    "beruf": [
+      "YouTuber",
+      "Yachtbauer",
+      "Yogalehrer",
+      "Yoga-Therapeut",
+      "Youtuberin",
+      "Yachtdesigner"
+    ],
+    "tier": [
+      "Yak",
+      "Yeti-Krabbe",
+      "Yapok (Wasseropossum)",
+      "Yaffle (Grünspecht)"
+    ],
+    "marke": [
+      "Yamaha",
+      "Yeti",
+      "Ykk",
+      "York Fitness",
+      "Yves Saint Laurent",
+      "Yakult",
+      "YSL Beauty",
+      "Yogi Tea"
+    ],
+    "pflanze": [
+      "Yucca",
+      "Ysop",
+      "Yams",
+      "Yucca-Palme",
+      "Ylang-Ylang",
+      "Yorkshire-Fog (Grasart)"
+    ]
+  },
+  "z": {
+    "stadt": [
+      "Zweibrücken (Deutschland)",
+      "Zwiesel (Deutschland)",
+      "Zwickau (Deutschland)",
+      "Zürich (Schweiz)",
+      "Zabol (Iran)",
+      "Zagreb (Kroatien)",
+      "Zaragoza (Spanien)",
+      "Zhengzhou (China)",
+      "Zakynthos (Griechenland)"
+    ],
+    "land": [
+      "Zypern",
+      "Zentralafrikanische Republik"
+    ],
+    "fluss": [
+      "Zschopau (Deutschland)",
+      "Zusam (Deutschland)",
+      "Zihl (Schweiz)",
+      "Zambezi (Afrika)",
+      "Zbruch (Ukraine)",
+      "Zwickauer Mulde (Deutschland)"
+    ],
+    "name": [
+      "Zoe",
+      "Zelda",
+      "Zoro",
+      "Zoella",
+      "Zilla",
+      "Zacharias",
+      "Zara",
+      "Zayn",
+      "Zümrüt"
+    ],
+    "beruf": [
+      "Zahnmedizinischer Fachangestellter",
+      "Zahntechniker",
+      "Zimmerer",
+      "Zerspanungsmechaniker",
+      "Zoologe",
+      "Zollbeamter",
+      "Zuckerbäcker"
+    ],
+    "tier": [
+      "Zander",
+      "Zaunkönig",
+      "Zebra",
+      "Zitteraal",
+      "Ziesel"
+    ],
+    "marke": [
+      "Zack",
+      "Zara",
+      "Zeiss",
+      "Zero",
+      "Zewa",
+      "Zwilling",
+      "Zippo",
+      "Zotter",
+      "Zara Home"
+    ],
+    "pflanze": [
+      "Zitronenbaum",
+      "Zypresse",
+      "Zucchini",
+      "Zierkirsche",
+      "Zwiebel",
+      "Zinnie"
+    ]
+  }
+}
