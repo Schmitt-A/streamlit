@@ -9,7 +9,7 @@ import random
 import string
 
 #Daten abrufen
-url = "https://slftool.github.io/data.json"
+url = "https://github.com/Schmitt-A/streamlit/blob/main/stadt-land-fluss-o3mini.json"
 response = requests.get(url)
 data = response.json()
 #print(data)
