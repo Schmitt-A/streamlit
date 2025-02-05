@@ -1261,3 +1261,86 @@
             "absi_std": 0.00598,
             "smoothed_absi_mean": 0.08444,
             "smoothed_absi_std": 0.00551
+        }
+    },
+    "81": {
+        "male": {
+            "count": 75,
+            "absi_mean": 0.08714,
+            "absi_std": 0.00395,
+            "smoothed_absi_mean": 0.08714,
+            "smoothed_absi_std": 0.00354
+        },
+        "female": {
+            "count": 82,
+            "absi_mean": 0.08406,
+            "absi_std": 0.00567,
+            "smoothed_absi_mean": 0.08460,
+            "smoothed_absi_std": 0.00553
+        }
+    },
+    "82": {
+        "male": {
+            "count": 55,
+            "absi_mean": 0.08713,
+            "absi_std": 0.00370,
+            "smoothed_absi_mean": 0.08723,
+            "smoothed_absi_std": 0.00354
+        },
+        "female": {
+            "count": 55,
+            "absi_mean": 0.08355,
+            "absi_std": 0.00641,
+            "smoothed_absi_mean": 0.08476,
+            "smoothed_absi_std": 0.00555
+        }
+    },
+    "83": {
+        "male": {
+            "count": 37,
+            "absi_mean": 0.08714,
+            "absi_std": 0.00342,
+            "smoothed_absi_mean": 0.08732,
+            "smoothed_absi_std": 0.00354
+        },
+        "female": {
+            "count": 53,
+            "absi_mean": 0.08542,
+            "absi_std": 0.00611,
+            "smoothed_absi_mean": 0.08492,
+            "smoothed_absi_std": 0.00557
+        }
+    },
+    "84": {
+        "male": {
+            "count": 44,
+            "absi_mean": 0.08763,
+            "absi_std": 0.00385,
+            "smoothed_absi_mean": 0.08742,
+            "smoothed_absi_std": 0.00353
+        },
+        "female": {
+            "count": 62,
+            "absi_mean": 0.08407,
+            "absi_std": 0.00484,
+            "smoothed_absi_mean": 0.08508,
+            "smoothed_absi_std": 0.00559
+        }
+    },
+    "85": {
+        "male": {
+            "count": 153,
+            "absi_mean": 0.08811,
+            "absi_std": 0.00356,
+            "smoothed_absi_mean": 0.08811,
+            "smoothed_absi_std": 0.00356
+        },
+        "female": {
+            "count": 196,
+            "absi_mean": 0.08533,
+            "absi_std": 0.00528,
+            "smoothed_absi_mean": 0.08533,
+            "smoothed_absi_std": 0.00528
+        }
+    }
+}
