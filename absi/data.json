@@ -1,0 +1,433 @@
+{
+    "2": {
+        "male": {
+            "count": 320,
+            "absi_mean": 0.07778,
+            "absi_std": 0.00312,
+            "smoothed_absi_mean": 0.07890,
+            "smoothed_absi_std": 0.00384
+        },
+        "female": {
+            "count": 336,
+            "absi_mean": 0.07922,
+            "absi_std": 0.00319,
+            "smoothed_absi_mean": 0.08031,
+            "smoothed_absi_std": 0.00363
+        }
+    },
+    "3": {
+        "male": {
+            "count": 285,
+            "absi_mean": 0.07931,
+            "absi_std": 0.00283,
+            "smoothed_absi_mean": 0.07915,
+            "smoothed_absi_std": 0.00384
+        },
+        "female": {
+            "count": 237,
+            "absi_mean": 0.08000,
+            "absi_std": 0.00303,
+            "smoothed_absi_mean": 0.08016,
+            "smoothed_absi_std": 0.00366
+        }
+    },
+    "4": {
+        "male": {
+            "count": 257,
+            "absi_mean": 0.07932,
+            "absi_std": 0.00300,
+            "smoothed_absi_mean": 0.07937,
+            "smoothed_absi_std": 0.00383
+        },
+        "female": {
+            "count": 280,
+            "absi_mean": 0.08045,
+            "absi_std": 0.00280,
+            "smoothed_absi_mean": 0.08001,
+            "smoothed_absi_std": 0.00369
+        }
+    },
+    "5": {
+        "male": {
+            "count": 240,
+            "absi_mean": 0.08009,
+            "absi_std": 0.00335,
+            "smoothed_absi_mean": 0.07955,
+            "smoothed_absi_std": 0.00383
+        },
+        "female": {
+            "count": 265,
+            "absi_mean": 0.08085,
+            "absi_std": 0.00327,
+            "smoothed_absi_mean": 0.07985,
+            "smoothed_absi_std": 0.00372
+        }
+    },
+    "6": {
+        "male": {
+            "count": 249,
+            "absi_mean": 0.07989,
+            "absi_std": 0.00362,
+            "smoothed_absi_mean": 0.07964,
+            "smoothed_absi_std": 0.00382
+        },
+        "female": {
+            "count": 254,
+            "absi_mean": 0.08006,
+            "absi_std": 0.00338,
+            "smoothed_absi_mean": 0.07969,
+            "smoothed_absi_std": 0.00375
+        }
+    },
+    "7": {
+        "male": {
+            "count": 266,
+            "absi_mean": 0.07968,
+            "absi_std": 0.00341,
+            "smoothed_absi_mean": 0.07966,
+            "smoothed_absi_std": 0.00382
+        },
+        "female": {
+            "count": 269,
+            "absi_mean": 0.08013,
+            "absi_std": 0.00333,
+            "smoothed_absi_mean": 0.07952,
+            "smoothed_absi_std": 0.00378
+        }
+    },
+    "8": {
+        "male": {
+            "count": 278,
+            "absi_mean": 0.08063,
+            "absi_std": 0.00415,
+            "smoothed_absi_mean": 0.07958,
+            "smoothed_absi_std": 0.00382
+        },
+        "female": {
+            "count": 272,
+            "absi_mean": 0.08039,
+            "absi_std": 0.00388,
+            "smoothed_absi_mean": 0.07935,
+            "smoothed_absi_std": 0.00380
+        }
+    },
+    "9": {
+        "male": {
+            "count": 261,
+            "absi_mean": 0.08025,
+            "absi_std": 0.00423,
+            "smoothed_absi_mean": 0.07942,
+            "smoothed_absi_std": 0.00381
+        },
+        "female": {
+            "count": 259,
+            "absi_mean": 0.08016,
+            "absi_std": 0.00370,
+            "smoothed_absi_mean": 0.07917,
+            "smoothed_absi_std": 0.00383
+        }
+    },
+    "10": {
+        "male": {
+            "count": 263,
+            "absi_mean": 0.07969,
+            "absi_std": 0.00408,
+            "smoothed_absi_mean": 0.07917,
+            "smoothed_absi_std": 0.00381
+        },
+        "female": {
+            "count": 247,
+            "absi_mean": 0.07914,
+            "absi_std": 0.00378,
+            "smoothed_absi_mean": 0.07899,
+            "smoothed_absi_std": 0.00386
+        }
+    },
+    "11": {
+        "male": {
+            "count": 250,
+            "absi_mean": 0.07964,
+            "absi_std": 0.00442,
+            "smoothed_absi_mean": 0.07886,
+            "smoothed_absi_std": 0.00381
+        },
+        "female": {
+            "count": 285,
+            "absi_mean": 0.07934,
+            "absi_std": 0.00400,
+            "smoothed_absi_mean": 0.07881,
+            "smoothed_absi_std": 0.00389
+        }
+    },
+    "12": {
+        "male": {
+            "count": 439,
+            "absi_mean": 0.07953,
+            "absi_std": 0.00438,
+            "smoothed_absi_mean": 0.07849,
+            "smoothed_absi_std": 0.00380
+        },
+        "female": {
+            "count": 443,
+            "absi_mean": 0.07825,
+            "absi_std": 0.00403,
+            "smoothed_absi_mean": 0.07863,
+            "smoothed_absi_std": 0.00392
+        }
+    },
+    "13": {
+        "male": {
+            "count": 439,
+            "absi_mean": 0.07807,
+            "absi_std": 0.00434,
+            "smoothed_absi_mean": 0.07810,
+            "smoothed_absi_std": 0.00380
+        },
+        "female": {
+            "count": 462,
+            "absi_mean": 0.07807,
+            "absi_std": 0.00439,
+            "smoothed_absi_mean": 0.07846,
+            "smoothed_absi_std": 0.00395
+        }
+    },
+    "14": {
+        "male": {
+            "count": 408,
+            "absi_mean": 0.07712,
+            "absi_std": 0.00436,
+            "smoothed_absi_mean": 0.07772,
+            "smoothed_absi_std": 0.00380
+        },
+        "female": {
+            "count": 468,
+            "absi_mean": 0.07762,
+            "absi_std": 0.00441,
+            "smoothed_absi_mean": 0.07829,
+            "smoothed_absi_std": 0.00397
+        }
+    },
+    "15": {
+        "male": {
+            "count": 416,
+            "absi_mean": 0.07647,
+            "absi_std": 0.00415,
+            "smoothed_absi_mean": 0.07739,
+            "smoothed_absi_std": 0.00379
+        },
+        "female": {
+            "count": 377,
+            "absi_mean": 0.07701,
+            "absi_std": 0.00391,
+            "smoothed_absi_mean": 0.07814,
+            "smoothed_absi_std": 0.00400
+        }
+    },
+    "16": {
+        "male": {
+            "count": 461,
+            "absi_mean": 0.07583,
+            "absi_std": 0.00379,
+            "smoothed_absi_mean": 0.07716,
+            "smoothed_absi_std": 0.00379
+        },
+        "female": {
+            "count": 379,
+            "absi_mean": 0.07739,
+            "absi_std": 0.00399,
+            "smoothed_absi_mean": 0.07799,
+            "smoothed_absi_std": 0.00403
+        }
+    },
+    "17": {
+        "male": {
+            "count": 461,
+            "absi_mean": 0.07625,
+            "absi_std": 0.00376,
+            "smoothed_absi_mean": 0.07703,
+            "smoothed_absi_std": 0.00378
+        },
+        "female": {
+            "count": 391,
+            "absi_mean": 0.07714,
+            "absi_std": 0.00394,
+            "smoothed_absi_mean": 0.07787,
+            "smoothed_absi_std": 0.00406
+        }
+    },
+    "18": {
+        "male": {
+            "count": 406,
+            "absi_mean": 0.07665,
+            "absi_std": 0.00361,
+            "smoothed_absi_mean": 0.07702,
+            "smoothed_absi_std": 0.00378
+        },
+        "female": {
+            "count": 377,
+            "absi_mean": 0.07705,
+            "absi_std": 0.00413,
+            "smoothed_absi_mean": 0.07775,
+            "smoothed_absi_std": 0.00408
+        }
+    },
+    "19": {
+        "male": {
+            "count": 394,
+            "absi_mean": 0.07665,
+            "absi_std": 0.00393,
+            "smoothed_absi_mean": 0.07711,
+            "smoothed_absi_std": 0.00378
+        },
+        "female": {
+            "count": 332,
+            "absi_mean": 0.07743,
+            "absi_std": 0.00419,
+            "smoothed_absi_mean": 0.07765,
+            "smoothed_absi_std": 0.00411
+        }
+    },
+    "20": {
+        "male": {
+            "count": 120,
+            "absi_mean": 0.07715,
+            "absi_std": 0.00410,
+            "smoothed_absi_mean": 0.07728,
+            "smoothed_absi_std": 0.00377
+        },
+        "female": {
+            "count": 118,
+            "absi_mean": 0.07712,
+            "absi_std": 0.00465,
+            "smoothed_absi_mean": 0.07757,
+            "smoothed_absi_std": 0.00414
+        }
+    },
+    "21": {
+        "male": {
+            "count": 129,
+            "absi_mean": 0.07754,
+            "absi_std": 0.00370,
+            "smoothed_absi_mean": 0.07750,
+            "smoothed_absi_std": 0.00377
+        },
+        "female": {
+            "count": 105,
+            "absi_mean": 0.07786,
+            "absi_std": 0.00415,
+            "smoothed_absi_mean": 0.07750,
+            "smoothed_absi_std": 0.00416
+        }
+    },
+    "22": {
+        "male": {
+            "count": 118,
+            "absi_mean": 0.07861,
+            "absi_std": 0.00452,
+            "smoothed_absi_mean": 0.07777,
+            "smoothed_absi_std": 0.00377
+        },
+        "female": {
+            "count": 100,
+            "absi_mean": 0.07728,
+            "absi_std": 0.00430,
+            "smoothed_absi_mean": 0.07744,
+            "smoothed_absi_std": 0.00419
+        }
+    },
+    "23": {
+        "male": {
+            "count": 105,
+            "absi_mean": 0.07839,
+            "absi_std": 0.00364,
+            "smoothed_absi_mean": 0.07804,
+            "smoothed_absi_std": 0.00376
+        },
+        "female": {
+            "count": 100,
+            "absi_mean": 0.07726,
+            "absi_std": 0.00463,
+            "smoothed_absi_mean": 0.07740,
+            "smoothed_absi_std": 0.00422
+        }
+    },
+    "24": {
+        "male": {
+            "count": 95,
+            "absi_mean": 0.07794,
+            "absi_std": 0.00363,
+            "smoothed_absi_mean": 0.07831,
+            "smoothed_absi_std": 0.00376
+        },
+        "female": {
+            "count": 108,
+            "absi_mean": 0.07771,
+            "absi_std": 0.00490,
+            "smoothed_absi_mean": 0.07737,
+            "smoothed_absi_std": 0.00424
+        }
+    },
+    "25": {
+        "male": {
+            "count": 107,
+            "absi_mean": 0.07880,
+            "absi_std": 0.00354,
+            "smoothed_absi_mean": 0.07858,
+            "smoothed_absi_std": 0.00376
+        },
+        "female": {
+            "count": 90,
+            "absi_mean": 0.07699,
+            "absi_std": 0.00407,
+            "smoothed_absi_mean": 0.07735,
+            "smoothed_absi_std": 0.00427
+        }
+    },
+    "26": {
+        "male": {
+            "count": 121,
+            "absi_mean": 0.07895,
+            "absi_std": 0.00381,
+            "smoothed_absi_mean": 0.07882,
+            "smoothed_absi_std": 0.00375
+        },
+        "female": {
+            "count": 85,
+            "absi_mean": 0.07719,
+            "absi_std": 0.00543,
+            "smoothed_absi_mean": 0.07734,
+            "smoothed_absi_std": 0.00429
+        }
+    },
+    "27": {
+        "male": {
+            "count": 94,
+            "absi_mean": 0.07936,
+            "absi_std": 0.00402,
+            "smoothed_absi_mean": 0.07904,
+            "smoothed_absi_std": 0.00375
+        },
+        "female": {
+            "count": 75,
+            "absi_mean": 0.07756,
+            "absi_std": 0.00450,
+            "smoothed_absi_mean": 0.07735,
+            "smoothed_absi_std": 0.00432
+        }
+    },
+    "28": {
+        "male": {
+            "count": 106,
+            "absi_mean": 0.07999,
+            "absi_std": 0.00387,
+            "smoothed_absi_mean": 0.07922,
+            "smoothed_absi_std": 0.00374
+        },
+        "female": {
+            "count": 95,
+            "absi_mean": 0.07772,
+            "absi_std": 0.00468,
+            "smoothed_absi_mean": 0.07736,
+            "smoothed_absi_std": 0.00435
+        }
+    },
