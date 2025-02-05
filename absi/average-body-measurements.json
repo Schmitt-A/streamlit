@@ -1,5 +1,5 @@
 {
-  "male": {
+  "männlich": {
     "2": {
       "taillenumfang": 50,
       "gewicht": 12.5,
@@ -171,7 +171,7 @@
       "groesse": 178
     }
   },
-  "female": {
+  "weiblich": {
     "2": {
       "taillenumfang": 51,
       "gewicht": 12,
