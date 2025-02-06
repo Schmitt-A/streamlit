@@ -5,10 +5,10 @@
       "Auskunftsquote": 39.6,
       "Körpergröße": 167.6,
       "Körpergewicht": 62.6,
-      "Body-Mass-Index": "22.3 (9.9)",
-      "BMI_unter18_5": "75.1 (10.7)",
-      "BMI_18_5_bis_25": "/",
-      "BMI_25_bis_30": null,
+      "Body-Mass-Index": 22.3,
+      "BMI_unter18_5": 9.9,
+      "BMI_18_5_bis_25": 75.1,
+      "BMI_25_bis_30": 10.7,
       "BMI_30_und_mehr": null
     },
     "Männer": {
@@ -19,8 +19,8 @@
       "Body-Mass-Index": 23.6,
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 69.9,
-      "BMI_25_bis_30": "18.1 (6.6)",
-      "BMI_30_und_mehr": null
+      "BMI_25_bis_30": 18.1,
+      "BMI_30_und_mehr": 6.6
     }
   },
   "19": {
@@ -29,10 +29,10 @@
       "Auskunftsquote": 39.6,
       "Körpergröße": 167.6,
       "Körpergewicht": 62.6,
-      "Body-Mass-Index": "22.3 (9.9)",
-      "BMI_unter18_5": "75.1 (10.7)",
-      "BMI_18_5_bis_25": "/",
-      "BMI_25_bis_30": null,
+      "Body-Mass-Index": 22.3,
+      "BMI_unter18_5": 9.9,
+      "BMI_18_5_bis_25": 75.1,
+      "BMI_25_bis_30": 10.7,
       "BMI_30_und_mehr": null
     },
     "Männer": {
@@ -43,8 +43,8 @@
       "Body-Mass-Index": 23.6,
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 69.9,
-      "BMI_25_bis_30": "18.1 (6.6)",
-      "BMI_30_und_mehr": null
+      "BMI_25_bis_30": 18.1,
+      "BMI_30_und_mehr": 6.6
     }
   },
   "20": {
@@ -64,8 +64,8 @@
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
       "Körpergewicht": 80.5,
-      "Body-Mass-Index": "24.4 (2.4)",
-      "BMI_unter18_5": 61.9,
+      "Body-Mass-Index": 24.4,
+      "BMI_unter18_5": 2.4,
       "BMI_18_5_bis_25": 28.4,
       "BMI_25_bis_30": 7.3,
       "BMI_30_und_mehr": null
@@ -88,8 +88,8 @@
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
       "Körpergewicht": 80.5,
-      "Body-Mass-Index": "24.4 (2.4)",
-      "BMI_unter18_5": 61.9,
+      "Body-Mass-Index": 24.4,
+      "BMI_unter18_5": 2.4,
       "BMI_18_5_bis_25": 28.4,
       "BMI_25_bis_30": 7.3,
       "BMI_30_und_mehr": null
@@ -112,8 +112,8 @@
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
       "Körpergewicht": 80.5,
-      "Body-Mass-Index": "24.4 (2.4)",
-      "BMI_unter18_5": 61.9,
+      "Body-Mass-Index": 24.4,
+      "BMI_unter18_5": 2.4,
       "BMI_18_5_bis_25": 28.4,
       "BMI_25_bis_30": 7.3,
       "BMI_30_und_mehr": null
@@ -136,8 +136,8 @@
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
       "Körpergewicht": 80.5,
-      "Body-Mass-Index": "24.4 (2.4)",
-      "BMI_unter18_5": 61.9,
+      "Body-Mass-Index": 24.4,
+      "BMI_unter18_5": 2.4,
       "BMI_18_5_bis_25": 28.4,
       "BMI_25_bis_30": 7.3,
       "BMI_30_und_mehr": null
@@ -160,8 +160,8 @@
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
       "Körpergewicht": 80.5,
-      "Body-Mass-Index": "24.4 (2.4)",
-      "BMI_unter18_5": 61.9,
+      "Body-Mass-Index": 24.4,
+      "BMI_unter18_5": 2.4,
       "BMI_18_5_bis_25": 28.4,
       "BMI_25_bis_30": 7.3,
       "BMI_30_und_mehr": null
@@ -294,10 +294,10 @@
       "Körpergröße": 167.2,
       "Körpergewicht": 68.2,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "4.1",
-      "BMI_18_5_bis_25": "62.9",
-      "BMI_25_bis_30": "20.9",
-      "BMI_30_und_mehr": "12.2"
+      "BMI_unter18_5": 4.1,
+      "BMI_18_5_bis_25": 62.9,
+      "BMI_25_bis_30": 20.9,
+      "BMI_30_und_mehr": 12.2
     },
     "Männer": {
       "Bevölkerung": 2942157,
@@ -306,9 +306,9 @@
       "Körpergewicht": 85.6,
       "Body-Mass-Index": 26.3,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "44.3",
-      "BMI_25_bis_30": "39.5",
-      "BMI_30_und_mehr": "15.4"
+      "BMI_18_5_bis_25": 44.3,
+      "BMI_25_bis_30": 39.5,
+      "BMI_30_und_mehr": 15.4
     }
   },
   "31": {
@@ -318,10 +318,10 @@
       "Körpergröße": 167.2,
       "Körpergewicht": 68.2,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "4.1",
-      "BMI_18_5_bis_25": "62.9",
-      "BMI_25_bis_30": "20.9",
-      "BMI_30_und_mehr": "12.2"
+      "BMI_unter18_5": 4.1,
+      "BMI_18_5_bis_25": 62.9,
+      "BMI_25_bis_30": 20.9,
+      "BMI_30_und_mehr": 12.2
     },
     "Männer": {
       "Bevölkerung": 2942157,
@@ -330,9 +330,9 @@
       "Körpergewicht": 85.6,
       "Body-Mass-Index": 26.3,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "44.3",
-      "BMI_25_bis_30": "39.5",
-      "BMI_30_und_mehr": "15.4"
+      "BMI_18_5_bis_25": 44.3,
+      "BMI_25_bis_30": 39.5,
+      "BMI_30_und_mehr": 15.4
     }
   },
   "32": {
@@ -342,10 +342,10 @@
       "Körpergröße": 167.2,
       "Körpergewicht": 68.2,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "4.1",
-      "BMI_18_5_bis_25": "62.9",
-      "BMI_25_bis_30": "20.9",
-      "BMI_30_und_mehr": "12.2"
+      "BMI_unter18_5": 4.1,
+      "BMI_18_5_bis_25": 62.9,
+      "BMI_25_bis_30": 20.9,
+      "BMI_30_und_mehr": 12.2
     },
     "Männer": {
       "Bevölkerung": 2942157,
@@ -354,9 +354,9 @@
       "Körpergewicht": 85.6,
       "Body-Mass-Index": 26.3,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "44.3",
-      "BMI_25_bis_30": "39.5",
-      "BMI_30_und_mehr": "15.4"
+      "BMI_18_5_bis_25": 44.3,
+      "BMI_25_bis_30": 39.5,
+      "BMI_30_und_mehr": 15.4
     }
   },
   "33": {
@@ -366,10 +366,10 @@
       "Körpergröße": 167.2,
       "Körpergewicht": 68.2,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "4.1",
-      "BMI_18_5_bis_25": "62.9",
-      "BMI_25_bis_30": "20.9",
-      "BMI_30_und_mehr": "12.2"
+      "BMI_unter18_5": 4.1,
+      "BMI_18_5_bis_25": 62.9,
+      "BMI_25_bis_30": 20.9,
+      "BMI_30_und_mehr": 12.2
     },
     "Männer": {
       "Bevölkerung": 2942157,
@@ -378,9 +378,9 @@
       "Körpergewicht": 85.6,
       "Body-Mass-Index": 26.3,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "44.3",
-      "BMI_25_bis_30": "39.5",
-      "BMI_30_und_mehr": "15.4"
+      "BMI_18_5_bis_25": 44.3,
+      "BMI_25_bis_30": 39.5,
+      "BMI_30_und_mehr": 15.4
     }
   },
   "34": {
@@ -390,10 +390,10 @@
       "Körpergröße": 167.2,
       "Körpergewicht": 68.2,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "4.1",
-      "BMI_18_5_bis_25": "62.9",
-      "BMI_25_bis_30": "20.9",
-      "BMI_30_und_mehr": "12.2"
+      "BMI_unter18_5": 4.1,
+      "BMI_18_5_bis_25": 62.9,
+      "BMI_25_bis_30": 20.9,
+      "BMI_30_und_mehr": 12.2
     },
     "Männer": {
       "Bevölkerung": 2942157,
@@ -402,9 +402,9 @@
       "Körpergewicht": 85.6,
       "Body-Mass-Index": 26.3,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "44.3",
-      "BMI_25_bis_30": "39.5",
-      "BMI_30_und_mehr": "15.4"
+      "BMI_18_5_bis_25": 44.3,
+      "BMI_25_bis_30": 39.5,
+      "BMI_30_und_mehr": 15.4
     }
   },
   "35": {
@@ -414,10 +414,10 @@
       "Körpergröße": 167.3,
       "Körpergewicht": 68.3,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "3.8",
-      "BMI_18_5_bis_25": "62.5",
-      "BMI_25_bis_30": "22.5",
-      "BMI_30_und_mehr": "11.2"
+      "BMI_unter18_5": 3.8,
+      "BMI_18_5_bis_25": 62.5,
+      "BMI_25_bis_30": 22.5,
+      "BMI_30_und_mehr": 11.2
     },
     "Männer": {
       "Bevölkerung": 2671417,
@@ -426,9 +426,9 @@
       "Körpergewicht": 86.7,
       "Body-Mass-Index": 26.7,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "39.8",
-      "BMI_25_bis_30": "42.6",
-      "BMI_30_und_mehr": "17.2"
+      "BMI_18_5_bis_25": 39.8,
+      "BMI_25_bis_30": 42.6,
+      "BMI_30_und_mehr": 17.2
     }
   },
   "36": {
@@ -438,10 +438,10 @@
       "Körpergröße": 167.3,
       "Körpergewicht": 68.3,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "3.8",
-      "BMI_18_5_bis_25": "62.5",
-      "BMI_25_bis_30": "22.5",
-      "BMI_30_und_mehr": "11.2"
+      "BMI_unter18_5": 3.8,
+      "BMI_18_5_bis_25": 62.5,
+      "BMI_25_bis_30": 22.5,
+      "BMI_30_und_mehr": 11.2
     },
     "Männer": {
       "Bevölkerung": 2671417,
@@ -450,9 +450,9 @@
       "Körpergewicht": 86.7,
       "Body-Mass-Index": 26.7,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "39.8",
-      "BMI_25_bis_30": "42.6",
-      "BMI_30_und_mehr": "17.2"
+      "BMI_18_5_bis_25": 39.8,
+      "BMI_25_bis_30": 42.6,
+      "BMI_30_und_mehr": 17.2
     }
   },
   "37": {
@@ -462,10 +462,10 @@
       "Körpergröße": 167.3,
       "Körpergewicht": 68.3,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "3.8",
-      "BMI_18_5_bis_25": "62.5",
-      "BMI_25_bis_30": "22.5",
-      "BMI_30_und_mehr": "11.2"
+      "BMI_unter18_5": 3.8,
+      "BMI_18_5_bis_25": 62.5,
+      "BMI_25_bis_30": 22.5,
+      "BMI_30_und_mehr": 11.2
     },
     "Männer": {
       "Bevölkerung": 2671417,
@@ -474,9 +474,9 @@
       "Körpergewicht": 86.7,
       "Body-Mass-Index": 26.7,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "39.8",
-      "BMI_25_bis_30": "42.6",
-      "BMI_30_und_mehr": "17.2"
+      "BMI_18_5_bis_25": 39.8,
+      "BMI_25_bis_30": 42.6,
+      "BMI_30_und_mehr": 17.2
     }
   },
   "38": {
@@ -486,10 +486,10 @@
       "Körpergröße": 167.3,
       "Körpergewicht": 68.3,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "3.8",
-      "BMI_18_5_bis_25": "62.5",
-      "BMI_25_bis_30": "22.5",
-      "BMI_30_und_mehr": "11.2"
+      "BMI_unter18_5": 3.8,
+      "BMI_18_5_bis_25": 62.5,
+      "BMI_25_bis_30": 22.5,
+      "BMI_30_und_mehr": 11.2
     },
     "Männer": {
       "Bevölkerung": 2671417,
@@ -498,9 +498,9 @@
       "Körpergewicht": 86.7,
       "Body-Mass-Index": 26.7,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "39.8",
-      "BMI_25_bis_30": "42.6",
-      "BMI_30_und_mehr": "17.2"
+      "BMI_18_5_bis_25": 39.8,
+      "BMI_25_bis_30": 42.6,
+      "BMI_30_und_mehr": 17.2
     }
   },
   "39": {
@@ -510,10 +510,10 @@
       "Körpergröße": 167.3,
       "Körpergewicht": 68.3,
       "Body-Mass-Index": 24.4,
-      "BMI_unter18_5": "3.8",
-      "BMI_18_5_bis_25": "62.5",
-      "BMI_25_bis_30": "22.5",
-      "BMI_30_und_mehr": "11.2"
+      "BMI_unter18_5": 3.8,
+      "BMI_18_5_bis_25": 62.5,
+      "BMI_25_bis_30": 22.5,
+      "BMI_30_und_mehr": 11.2
     },
     "Männer": {
       "Bevölkerung": 2671417,
@@ -522,9 +522,9 @@
       "Körpergewicht": 86.7,
       "Body-Mass-Index": 26.7,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "39.8",
-      "BMI_25_bis_30": "42.6",
-      "BMI_30_und_mehr": "17.2"
+      "BMI_18_5_bis_25": 39.8,
+      "BMI_25_bis_30": 42.6,
+      "BMI_30_und_mehr": 17.2
     }
   },
   "40": {
@@ -534,10 +534,10 @@
       "Körpergröße": 167.5,
       "Körpergewicht": 69.3,
       "Body-Mass-Index": 24.8,
-      "BMI_unter18_5": "3.5",
-      "BMI_18_5_bis_25": "59.6",
-      "BMI_25_bis_30": "23.8",
-      "BMI_30_und_mehr": "13.0"
+      "BMI_unter18_5": 3.5,
+      "BMI_18_5_bis_25": 59.6,
+      "BMI_25_bis_30": 23.8,
+      "BMI_30_und_mehr": 13.0
     },
     "Männer": {
       "Bevölkerung": 2584358,
@@ -546,9 +546,9 @@
       "Körpergewicht": 88.1,
       "Body-Mass-Index": 27.1,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "34.9",
-      "BMI_25_bis_30": "45.3",
-      "BMI_30_und_mehr": "19.5"
+      "BMI_18_5_bis_25": 34.9,
+      "BMI_25_bis_30": 45.3,
+      "BMI_30_und_mehr": 19.5
     }
   },
   "41": {
@@ -558,10 +558,10 @@
       "Körpergröße": 167.5,
       "Körpergewicht": 69.3,
       "Body-Mass-Index": 24.8,
-      "BMI_unter18_5": "3.5",
-      "BMI_18_5_bis_25": "59.6",
-      "BMI_25_bis_30": "23.8",
-      "BMI_30_und_mehr": "13.0"
+      "BMI_unter18_5": 3.5,
+      "BMI_18_5_bis_25": 59.6,
+      "BMI_25_bis_30": 23.8,
+      "BMI_30_und_mehr": 13.0
     },
     "Männer": {
       "Bevölkerung": 2584358,
@@ -570,9 +570,9 @@
       "Körpergewicht": 88.1,
       "Body-Mass-Index": 27.1,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "34.9",
-      "BMI_25_bis_30": "45.3",
-      "BMI_30_und_mehr": "19.5"
+      "BMI_18_5_bis_25": 34.9,
+      "BMI_25_bis_30": 45.3,
+      "BMI_30_und_mehr": 19.5
     }
   },
   "42": {
@@ -582,10 +582,10 @@
       "Körpergröße": 167.5,
       "Körpergewicht": 69.3,
       "Body-Mass-Index": 24.8,
-      "BMI_unter18_5": "3.5",
-      "BMI_18_5_bis_25": "59.6",
-      "BMI_25_bis_30": "23.8",
-      "BMI_30_und_mehr": "13.0"
+      "BMI_unter18_5": 3.5,
+      "BMI_18_5_bis_25": 59.6,
+      "BMI_25_bis_30": 23.8,
+      "BMI_30_und_mehr": 13.0
     },
     "Männer": {
       "Bevölkerung": 2584358,
@@ -594,9 +594,9 @@
       "Körpergewicht": 88.1,
       "Body-Mass-Index": 27.1,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "34.9",
-      "BMI_25_bis_30": "45.3",
-      "BMI_30_und_mehr": "19.5"
+      "BMI_18_5_bis_25": 34.9,
+      "BMI_25_bis_30": 45.3,
+      "BMI_30_und_mehr": 19.5
     }
   },
   "43": {
@@ -606,10 +606,10 @@
       "Körpergröße": 167.5,
       "Körpergewicht": 69.3,
       "Body-Mass-Index": 24.8,
-      "BMI_unter18_5": "3.5",
-      "BMI_18_5_bis_25": "59.6",
-      "BMI_25_bis_30": "23.8",
-      "BMI_30_und_mehr": "13.0"
+      "BMI_unter18_5": 3.5,
+      "BMI_18_5_bis_25": 59.6,
+      "BMI_25_bis_30": 23.8,
+      "BMI_30_und_mehr": 13.0
     },
     "Männer": {
       "Bevölkerung": 2584358,
@@ -618,9 +618,9 @@
       "Körpergewicht": 88.1,
       "Body-Mass-Index": 27.1,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "34.9",
-      "BMI_25_bis_30": "45.3",
-      "BMI_30_und_mehr": "19.5"
+      "BMI_18_5_bis_25": 34.9,
+      "BMI_25_bis_30": 45.3,
+      "BMI_30_und_mehr": 19.5
     }
   },
   "44": {
@@ -630,10 +630,10 @@
       "Körpergröße": 167.5,
       "Körpergewicht": 69.3,
       "Body-Mass-Index": 24.8,
-      "BMI_unter18_5": "3.5",
-      "BMI_18_5_bis_25": "59.6",
-      "BMI_25_bis_30": "23.8",
-      "BMI_30_und_mehr": "13.0"
+      "BMI_unter18_5": 3.5,
+      "BMI_18_5_bis_25": 59.6,
+      "BMI_25_bis_30": 23.8,
+      "BMI_30_und_mehr": 13.0
     },
     "Männer": {
       "Bevölkerung": 2584358,
@@ -642,9 +642,9 @@
       "Körpergewicht": 88.1,
       "Body-Mass-Index": 27.1,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "34.9",
-      "BMI_25_bis_30": "45.3",
-      "BMI_30_und_mehr": "19.5"
+      "BMI_18_5_bis_25": 34.9,
+      "BMI_25_bis_30": 45.3,
+      "BMI_30_und_mehr": 19.5
     }
   },
   "45": {
@@ -653,11 +653,11 @@
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "25.4 (2.4)",
-      "BMI_unter18_5": "55.5",
-      "BMI_18_5_bis_25": "26.2",
-      "BMI_25_bis_30": 15.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.4,
+      "BMI_18_5_bis_25": 55.5,
+      "BMI_25_bis_30": 26.2,
+      "BMI_30_und_mehr": 15.8
     },
     "Männer": {
       "Bevölkerung": 2392188,
@@ -668,7 +668,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.8,
       "BMI_25_bis_30": 46.2,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "46": {
@@ -677,11 +677,11 @@
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "25.4 (2.4)",
-      "BMI_unter18_5": "55.5",
-      "BMI_18_5_bis_25": "26.2",
-      "BMI_25_bis_30": 15.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.4,
+      "BMI_18_5_bis_25": 55.5,
+      "BMI_25_bis_30": 26.2,
+      "BMI_30_und_mehr": 15.8
     },
     "Männer": {
       "Bevölkerung": 2392188,
@@ -692,7 +692,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.8,
       "BMI_25_bis_30": 46.2,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "47": {
@@ -701,11 +701,11 @@
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "25.4 (2.4)",
-      "BMI_unter18_5": "55.5",
-      "BMI_18_5_bis_25": "26.2",
-      "BMI_25_bis_30": 15.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.4,
+      "BMI_18_5_bis_25": 55.5,
+      "BMI_25_bis_30": 26.2,
+      "BMI_30_und_mehr": 15.8
     },
     "Männer": {
       "Bevölkerung": 2392188,
@@ -716,7 +716,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.8,
       "BMI_25_bis_30": 46.2,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "48": {
@@ -725,9 +725,9 @@
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "25.4 (2.4)",
-      "BMI_unter18_5": "55.5",
-      "BMI_18_5_bis_25": "26.2",
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.4,
+      "BMI_18_5_bis_25": 55.5,
       "BMI_25_bis_30": 15.4,
       "BMI_30_und_mehr": null
     },
@@ -740,7 +740,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.8,
       "BMI_25_bis_30": 46.2,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "49": {
@@ -749,11 +749,11 @@
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "25.4 (2.4)",
-      "BMI_unter18_5": "55.5",
-      "BMI_18_5_bis_25": "26.2",
-      "BMI_25_bis_30": 15.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.4,
+      "BMI_18_5_bis_25": 55.5,
+      "BMI_25_bis_30": 26.2,
+      "BMI_30_und_mehr": 15.8
     },
     "Männer": {
       "Bevölkerung": 2392188,
@@ -764,7 +764,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.8,
       "BMI_25_bis_30": 46.2,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "50": {
@@ -773,11 +773,11 @@
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "25.4 (2.3)",
-      "BMI_unter18_5": "53.1",
-      "BMI_18_5_bis_25": "29.2",
-      "BMI_25_bis_30": 15.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 53.1,
+      "BMI_25_bis_30": 29.2,
+      "BMI_30_und_mehr": 15.4
     },
     "Männer": {
       "Bevölkerung": 3163599,
@@ -786,9 +786,9 @@
       "Körpergewicht": 89.0,
       "Body-Mass-Index": 27.5,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "29.6",
+      "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "21.8"
+      "BMI_30_und_mehr": 21.8
     }
   },
   "51": {
@@ -797,11 +797,11 @@
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "25.4 (2.3)",
-      "BMI_unter18_5": "53.1",
-      "BMI_18_5_bis_25": "29.2",
-      "BMI_25_bis_30": 15.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 53.1,
+      "BMI_25_bis_30": 29.2,
+      "BMI_30_und_mehr": 15.4
     },
     "Männer": {
       "Bevölkerung": 3163599,
@@ -810,9 +810,9 @@
       "Körpergewicht": 89.0,
       "Body-Mass-Index": 27.5,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "29.6",
+      "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "21.8"
+      "BMI_30_und_mehr": 21.8
     }
   },
   "52": {
@@ -821,11 +821,11 @@
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "25.4 (2.3)",
-      "BMI_unter18_5": "53.1",
-      "BMI_18_5_bis_25": "29.2",
-      "BMI_25_bis_30": 15.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 53.1,
+      "BMI_25_bis_30": 29.2,
+      "BMI_30_und_mehr": 15.4
     },
     "Männer": {
       "Bevölkerung": 3163599,
@@ -834,9 +834,9 @@
       "Körpergewicht": 89.0,
       "Body-Mass-Index": 27.5,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "29.6",
+      "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "21.8"
+      "BMI_30_und_mehr": 21.8
     }
   },
   "53": {
@@ -845,11 +845,11 @@
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "25.4 (2.3)",
-      "BMI_unter18_5": "53.1",
-      "BMI_18_5_bis_25": "29.2",
-      "BMI_25_bis_30": 15.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 53.1,
+      "BMI_25_bis_30": 29.2,
+      "BMI_30_und_mehr": 15.4
     },
     "Männer": {
       "Bevölkerung": 3163599,
@@ -858,9 +858,9 @@
       "Körpergewicht": 89.0,
       "Body-Mass-Index": 27.5,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "29.6",
+      "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "21.8"
+      "BMI_30_und_mehr": 21.8
     }
   },
   "54": {
@@ -869,11 +869,11 @@
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "25.4 (2.3)",
-      "BMI_unter18_5": "53.1",
-      "BMI_18_5_bis_25": "29.2",
-      "BMI_25_bis_30": 15.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.4,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 53.1,
+      "BMI_25_bis_30": 29.2,
+      "BMI_30_und_mehr": 15.4
     },
     "Männer": {
       "Bevölkerung": 3163599,
@@ -882,9 +882,9 @@
       "Körpergewicht": 89.0,
       "Body-Mass-Index": 27.5,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "29.6",
+      "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "21.8"
+      "BMI_30_und_mehr": 21.8
     }
   },
   "55": {
@@ -893,11 +893,11 @@
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
       "Körpergewicht": 71.5,
-      "Body-Mass-Index": "25.7 (2.2)",
-      "BMI_unter18_5": "50.9",
-      "BMI_18_5_bis_25": "30.1",
-      "BMI_25_bis_30": 16.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.7,
+      "BMI_unter18_5": 2.2,
+      "BMI_18_5_bis_25": 50.9,
+      "BMI_25_bis_30": 30.1,
+      "BMI_30_und_mehr": 16.8
     },
     "Männer": {
       "Bevölkerung": 3464100,
@@ -908,7 +908,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 28.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "22.3"
+      "BMI_30_und_mehr": 22.3
     }
   },
   "56": {
@@ -917,11 +917,11 @@
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
       "Körpergewicht": 71.5,
-      "Body-Mass-Index": "25.7 (2.2)",
-      "BMI_unter18_5": "50.9",
-      "BMI_18_5_bis_25": "30.1",
-      "BMI_25_bis_30": 16.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.7,
+      "BMI_unter18_5": 2.2,
+      "BMI_18_5_bis_25": 50.9,
+      "BMI_25_bis_30": 30.1,
+      "BMI_30_und_mehr": 16.8
     },
     "Männer": {
       "Bevölkerung": 3464100,
@@ -932,7 +932,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 28.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "22.3"
+      "BMI_30_und_mehr": 22.3
     }
   },
   "57": {
@@ -941,11 +941,11 @@
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
       "Körpergewicht": 71.5,
-      "Body-Mass-Index": "25.7 (2.2)",
-      "BMI_unter18_5": "50.9",
-      "BMI_18_5_bis_25": "30.1",
-      "BMI_25_bis_30": 16.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.7,
+      "BMI_unter18_5": 2.2,
+      "BMI_18_5_bis_25": 50.9,
+      "BMI_25_bis_30": 30.1,
+      "BMI_30_und_mehr": 16.8
     },
     "Männer": {
       "Bevölkerung": 3464100,
@@ -956,7 +956,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 28.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "22.3"
+      "BMI_30_und_mehr": 22.3
     }
   },
   "58": {
@@ -965,11 +965,11 @@
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
       "Körpergewicht": 71.5,
-      "Body-Mass-Index": "25.7 (2.2)",
-      "BMI_unter18_5": "50.9",
-      "BMI_18_5_bis_25": "30.1",
-      "BMI_25_bis_30": 16.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.7,
+      "BMI_unter18_5": 2.2,
+      "BMI_18_5_bis_25": 50.9,
+      "BMI_25_bis_30": 30.1,
+      "BMI_30_und_mehr": 16.8
     },
     "Männer": {
       "Bevölkerung": 3464100,
@@ -980,7 +980,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 28.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "22.3"
+      "BMI_30_und_mehr": 22.3
     }
   },
   "59": {
@@ -989,11 +989,11 @@
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
       "Körpergewicht": 71.5,
-      "Body-Mass-Index": "25.7 (2.2)",
-      "BMI_unter18_5": "50.9",
-      "BMI_18_5_bis_25": "30.1",
-      "BMI_25_bis_30": 16.8,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.7,
+      "BMI_unter18_5": 2.2,
+      "BMI_18_5_bis_25": 50.9,
+      "BMI_25_bis_30": 30.1,
+      "BMI_30_und_mehr": 16.8
     },
     "Männer": {
       "Bevölkerung": 3464100,
@@ -1004,7 +1004,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 28.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "22.3"
+      "BMI_30_und_mehr": 22.3
     }
   },
   "60": {
@@ -1013,11 +1013,11 @@
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
       "Körpergewicht": 71.2,
-      "Body-Mass-Index": "26.1 (2.1)",
-      "BMI_unter18_5": "47.1",
-      "BMI_18_5_bis_25": "32.3",
-      "BMI_25_bis_30": 18.6,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.1,
+      "BMI_unter18_5": 2.1,
+      "BMI_18_5_bis_25": 47.1,
+      "BMI_25_bis_30": 32.3,
+      "BMI_30_und_mehr": 18.6
     },
     "Männer": {
       "Bevölkerung": 28991,
@@ -1026,9 +1026,9 @@
       "Körpergewicht": 87.9,
       "Body-Mass-Index": 27.6,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "27.9",
+      "BMI_18_5_bis_25": 27.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "61": {
@@ -1037,11 +1037,11 @@
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
       "Körpergewicht": 71.2,
-      "Body-Mass-Index": "26.1 (2.1)",
-      "BMI_unter18_5": "47.1",
-      "BMI_18_5_bis_25": "32.3",
-      "BMI_25_bis_30": 18.6,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.1,
+      "BMI_unter18_5": 2.1,
+      "BMI_18_5_bis_25": 47.1,
+      "BMI_25_bis_30": 32.3,
+      "BMI_30_und_mehr": 18.6
     },
     "Männer": {
       "Bevölkerung": 28991,
@@ -1050,9 +1050,9 @@
       "Körpergewicht": 87.9,
       "Body-Mass-Index": 27.6,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "27.9",
+      "BMI_18_5_bis_25": 27.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "62": {
@@ -1061,11 +1061,11 @@
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
       "Körpergewicht": 71.2,
-      "Body-Mass-Index": "26.1 (2.1)",
-      "BMI_unter18_5": "47.1",
-      "BMI_18_5_bis_25": "32.3",
-      "BMI_25_bis_30": 18.6,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.1,
+      "BMI_unter18_5": 2.1,
+      "BMI_18_5_bis_25": 47.1,
+      "BMI_25_bis_30": 32.3,
+      "BMI_30_und_mehr": 18.6
     },
     "Männer": {
       "Bevölkerung": 28991,
@@ -1074,9 +1074,9 @@
       "Körpergewicht": 87.9,
       "Body-Mass-Index": 27.6,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "27.9",
+      "BMI_18_5_bis_25": 27.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "63": {
@@ -1085,11 +1085,11 @@
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
       "Körpergewicht": 71.2,
-      "Body-Mass-Index": "26.1 (2.1)",
-      "BMI_unter18_5": "47.1",
-      "BMI_18_5_bis_25": "32.3",
-      "BMI_25_bis_30": 18.6,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.1,
+      "BMI_unter18_5": 2.1,
+      "BMI_18_5_bis_25": 47.1,
+      "BMI_25_bis_30": 32.3,
+      "BMI_30_und_mehr": 18.6
     },
     "Männer": {
       "Bevölkerung": 28991,
@@ -1098,9 +1098,9 @@
       "Körpergewicht": 87.9,
       "Body-Mass-Index": 27.6,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "27.9",
+      "BMI_18_5_bis_25": 27.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "64": {
@@ -1109,11 +1109,11 @@
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
       "Körpergewicht": 71.2,
-      "Body-Mass-Index": "26.1 (2.1)",
-      "BMI_unter18_5": "47.1",
-      "BMI_18_5_bis_25": "32.3",
-      "BMI_25_bis_30": 18.6,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.1,
+      "BMI_unter18_5": 2.1,
+      "BMI_18_5_bis_25": 47.1,
+      "BMI_25_bis_30": 32.3,
+      "BMI_30_und_mehr": 18.6
     },
     "Männer": {
       "Bevölkerung": 28991,
@@ -1122,9 +1122,9 @@
       "Körpergewicht": 87.9,
       "Body-Mass-Index": 27.6,
       "BMI_unter18_5": null,
-      "BMI_18_5_bis_25": "27.9",
+      "BMI_18_5_bis_25": 27.9,
       "BMI_25_bis_30": 48.4,
-      "BMI_30_und_mehr": "23.5"
+      "BMI_30_und_mehr": 23.5
     }
   },
   "65": {
@@ -1133,11 +1133,11 @@
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "26.3 (2.3)",
-      "BMI_unter18_5": "44.7",
-      "BMI_18_5_bis_25": "33.7",
-      "BMI_25_bis_30": 19.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.3,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 44.7,
+      "BMI_25_bis_30": 33.7,
+      "BMI_30_und_mehr": 19.4
     },
     "Männer": {
       "Bevölkerung": 2369369,
@@ -1148,7 +1148,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 46.9,
-      "BMI_30_und_mehr": "23.1"
+      "BMI_30_und_mehr": 23.1
     }
   },
   "66": {
@@ -1157,11 +1157,11 @@
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "26.3 (2.3)",
-      "BMI_unter18_5": "44.7",
-      "BMI_18_5_bis_25": "33.7",
-      "BMI_25_bis_30": 19.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.3,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 44.7,
+      "BMI_25_bis_30": 33.7,
+      "BMI_30_und_mehr": 19.4
     },
     "Männer": {
       "Bevölkerung": 2369369,
@@ -1172,7 +1172,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 46.9,
-      "BMI_30_und_mehr": "23.1"
+      "BMI_30_und_mehr": 23.1
     }
   },
   "67": {
@@ -1181,11 +1181,11 @@
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "26.3 (2.3)",
-      "BMI_unter18_5": "44.7",
-      "BMI_18_5_bis_25": "33.7",
-      "BMI_25_bis_30": 19.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.3,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 44.7,
+      "BMI_25_bis_30": 33.7,
+      "BMI_30_und_mehr": 19.4
     },
     "Männer": {
       "Bevölkerung": 2369369,
@@ -1196,7 +1196,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 46.9,
-      "BMI_30_und_mehr": "23.1"
+      "BMI_30_und_mehr": 23.1
     }
   },
   "68": {
@@ -1205,11 +1205,11 @@
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "26.3 (2.3)",
-      "BMI_unter18_5": "44.7",
-      "BMI_18_5_bis_25": "33.7",
-      "BMI_25_bis_30": 19.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.3,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 44.7,
+      "BMI_25_bis_30": 33.7,
+      "BMI_30_und_mehr": 19.4
     },
     "Männer": {
       "Bevölkerung": 2369369,
@@ -1220,7 +1220,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 46.9,
-      "BMI_30_und_mehr": "23.1"
+      "BMI_30_und_mehr": 23.1
     }
   },
   "69": {
@@ -1229,11 +1229,11 @@
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
       "Körpergewicht": 70.9,
-      "Body-Mass-Index": "26.3 (2.3)",
-      "BMI_unter18_5": "44.7",
-      "BMI_18_5_bis_25": "33.7",
-      "BMI_25_bis_30": 19.4,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.3,
+      "BMI_unter18_5": 2.3,
+      "BMI_18_5_bis_25": 44.7,
+      "BMI_25_bis_30": 33.7,
+      "BMI_30_und_mehr": 19.4
     },
     "Männer": {
       "Bevölkerung": 2369369,
@@ -1244,7 +1244,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 29.6,
       "BMI_25_bis_30": 46.9,
-      "BMI_30_und_mehr": "23.1"
+      "BMI_30_und_mehr": 23.1
     }
   },
   "70": {
@@ -1253,11 +1253,11 @@
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "26.5 (2.0)",
-      "BMI_unter18_5": "41.7",
-      "BMI_18_5_bis_25": "36.2",
-      "BMI_25_bis_30": 20.2,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.5,
+      "BMI_unter18_5": 2.0,
+      "BMI_18_5_bis_25": 41.7,
+      "BMI_25_bis_30": 36.2,
+      "BMI_30_und_mehr": 20.2
     },
     "Männer": {
       "Bevölkerung": 1928163,
@@ -1268,7 +1268,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 27.7,
       "BMI_25_bis_30": 49.2,
-      "BMI_30_und_mehr": "22.7"
+      "BMI_30_und_mehr": 22.7
     }
   },
   "71": {
@@ -1277,11 +1277,11 @@
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "26.5 (2.0)",
-      "BMI_unter18_5": "41.7",
-      "BMI_18_5_bis_25": "36.2",
-      "BMI_25_bis_30": 20.2,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.5,
+      "BMI_unter18_5": 2.0,
+      "BMI_18_5_bis_25": 41.7,
+      "BMI_25_bis_30": 36.2,
+      "BMI_30_und_mehr": 20.2
     },
     "Männer": {
       "Bevölkerung": 1928163,
@@ -1292,7 +1292,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 27.7,
       "BMI_25_bis_30": 49.2,
-      "BMI_30_und_mehr": "22.7"
+      "BMI_30_und_mehr": 22.7
     }
   },
   "72": {
@@ -1301,11 +1301,11 @@
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "26.5 (2.0)",
-      "BMI_unter18_5": "41.7",
-      "BMI_18_5_bis_25": "36.2",
-      "BMI_25_bis_30": 20.2,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.5,
+      "BMI_unter18_5": 2.0,
+      "BMI_18_5_bis_25": 41.7,
+      "BMI_25_bis_30": 36.2,
+      "BMI_30_und_mehr": 20.2
     },
     "Männer": {
       "Bevölkerung": 1928163,
@@ -1316,7 +1316,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 27.7,
       "BMI_25_bis_30": 49.2,
-      "BMI_30_und_mehr": "22.7"
+      "BMI_30_und_mehr": 22.7
     }
   },
   "73": {
@@ -1325,11 +1325,11 @@
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "26.5 (2.0)",
-      "BMI_unter18_5": "41.7",
-      "BMI_18_5_bis_25": "36.2",
-      "BMI_25_bis_30": 20.2,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.5,
+      "BMI_unter18_5": 2.0,
+      "BMI_18_5_bis_25": 41.7,
+      "BMI_25_bis_30": 36.2,
+      "BMI_30_und_mehr": 20.2
     },
     "Männer": {
       "Bevölkerung": 1928163,
@@ -1340,7 +1340,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 27.7,
       "BMI_25_bis_30": 49.2,
-      "BMI_30_und_mehr": "22.7"
+      "BMI_30_und_mehr": 22.7
     }
   },
   "74": {
@@ -1349,11 +1349,11 @@
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
       "Körpergewicht": 71.0,
-      "Body-Mass-Index": "26.5 (2.0)",
-      "BMI_unter18_5": "41.7",
-      "BMI_18_5_bis_25": "36.2",
-      "BMI_25_bis_30": 20.2,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 26.5,
+      "BMI_unter18_5": 2.0,
+      "BMI_18_5_bis_25": 41.7,
+      "BMI_25_bis_30": 36.2,
+      "BMI_30_und_mehr": 20.2
     },
     "Männer": {
       "Bevölkerung": 1928163,
@@ -1364,7 +1364,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 27.7,
       "BMI_25_bis_30": 49.2,
-      "BMI_30_und_mehr": "22.7"
+      "BMI_30_und_mehr": 22.7
     }
   },
   "75": {
@@ -1373,11 +1373,11 @@
       "Auskunftsquote": 54.4,
       "Körpergröße": 162.6,
       "Körpergewicht": 67.9,
-      "Body-Mass-Index": "25.7 (3.3)",
-      "BMI_unter18_5": "45.9",
-      "BMI_18_5_bis_25": "34.6",
-      "BMI_25_bis_30": 16.3,
-      "BMI_30_und_mehr": null
+      "Body-Mass-Index": 25.7,
+      "BMI_unter18_5": 3.3,
+      "BMI_18_5_bis_25": 45.9,
+      "BMI_25_bis_30": 34.6,
+      "BMI_30_und_mehr": 16.3
     },
     "Männer": {
       "Bevölkerung": 37642043,
@@ -1388,7 +1388,7 @@
       "BMI_unter18_5": null,
       "BMI_18_5_bis_25": 37.2,
       "BMI_25_bis_30": 46.0,
-      "BMI_30_und_mehr": "16.2"
+      "BMI_30_und_mehr": 16.2
     }
   }
 }
