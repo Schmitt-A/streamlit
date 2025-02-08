@@ -1,6 +1,6 @@
 {
   "18": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 736291,
       "Auskunftsquote": 39.6,
       "Körpergröße": 167.6,
@@ -11,7 +11,7 @@
       "BMI_25_bis_30": 10.7,
       "BMI_30_und_mehr": null
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 800337,
       "Auskunftsquote": 42.1,
       "Körpergröße": 181.7,
@@ -24,7 +24,7 @@
     }
   },
   "19": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 736291,
       "Auskunftsquote": 39.6,
       "Körpergröße": 167.6,
@@ -35,7 +35,7 @@
       "BMI_25_bis_30": 10.7,
       "BMI_30_und_mehr": null
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 800337,
       "Auskunftsquote": 42.1,
       "Körpergröße": 181.7,
@@ -48,7 +48,7 @@
     }
   },
   "20": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2156989,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.5,
@@ -59,7 +59,7 @@
       "BMI_25_bis_30": 14.9,
       "BMI_30_und_mehr": 5.3
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2335094,
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
@@ -72,7 +72,7 @@
     }
   },
   "21": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2156989,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.5,
@@ -83,7 +83,7 @@
       "BMI_25_bis_30": 14.9,
       "BMI_30_und_mehr": 5.3
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2335094,
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
@@ -96,7 +96,7 @@
     }
   },
   "22": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2156989,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.5,
@@ -107,7 +107,7 @@
       "BMI_25_bis_30": 14.9,
       "BMI_30_und_mehr": 5.3
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2335094,
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
@@ -120,7 +120,7 @@
     }
   },
   "23": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2156989,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.5,
@@ -131,7 +131,7 @@
       "BMI_25_bis_30": 14.9,
       "BMI_30_und_mehr": 5.3
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2335094,
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
@@ -144,7 +144,7 @@
     }
   },
   "24": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2156989,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.5,
@@ -155,7 +155,7 @@
       "BMI_25_bis_30": 14.9,
       "BMI_30_und_mehr": 5.3
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2335094,
       "Auskunftsquote": 46.9,
       "Körpergröße": 181.4,
@@ -168,7 +168,7 @@
     }
   },
   "25": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2279103,
       "Auskunftsquote": 48.4,
       "Körpergröße": 167.3,
@@ -179,7 +179,7 @@
       "BMI_25_bis_30": 17.4,
       "BMI_30_und_mehr": 8.9
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2426137,
       "Auskunftsquote": 51.0,
       "Körpergröße": 180.4,
@@ -192,7 +192,7 @@
     }
   },
   "26": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2279103,
       "Auskunftsquote": 48.4,
       "Körpergröße": 167.3,
@@ -203,7 +203,7 @@
       "BMI_25_bis_30": 17.4,
       "BMI_30_und_mehr": 8.9
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2426137,
       "Auskunftsquote": 51.0,
       "Körpergröße": 180.4,
@@ -216,7 +216,7 @@
     }
   },
   "27": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2279103,
       "Auskunftsquote": 48.4,
       "Körpergröße": 167.3,
@@ -227,7 +227,7 @@
       "BMI_25_bis_30": 17.4,
       "BMI_30_und_mehr": 8.9
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2426137,
       "Auskunftsquote": 51.0,
       "Körpergröße": 180.4,
@@ -240,7 +240,7 @@
     }
   },
   "28": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2279103,
       "Auskunftsquote": 48.4,
       "Körpergröße": 167.3,
@@ -251,7 +251,7 @@
       "BMI_25_bis_30": 17.4,
       "BMI_30_und_mehr": 8.9
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2426137,
       "Auskunftsquote": 51.0,
       "Körpergröße": 180.4,
@@ -264,7 +264,7 @@
     }
   },
   "29": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2279103,
       "Auskunftsquote": 48.4,
       "Körpergröße": 167.3,
@@ -275,7 +275,7 @@
       "BMI_25_bis_30": 17.4,
       "BMI_30_und_mehr": 8.9
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2426137,
       "Auskunftsquote": 51.0,
       "Körpergröße": 180.4,
@@ -288,7 +288,7 @@
     }
   },
   "30": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2739144,
       "Auskunftsquote": 49.1,
       "Körpergröße": 167.2,
@@ -299,7 +299,7 @@
       "BMI_25_bis_30": 20.9,
       "BMI_30_und_mehr": 12.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2942157,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.4,
@@ -312,7 +312,7 @@
     }
   },
   "31": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2739144,
       "Auskunftsquote": 49.1,
       "Körpergröße": 167.2,
@@ -323,7 +323,7 @@
       "BMI_25_bis_30": 20.9,
       "BMI_30_und_mehr": 12.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2942157,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.4,
@@ -336,7 +336,7 @@
     }
   },
   "32": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2739144,
       "Auskunftsquote": 49.1,
       "Körpergröße": 167.2,
@@ -347,7 +347,7 @@
       "BMI_25_bis_30": 20.9,
       "BMI_30_und_mehr": 12.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2942157,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.4,
@@ -360,7 +360,7 @@
     }
   },
   "33": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2739144,
       "Auskunftsquote": 49.1,
       "Körpergröße": 167.2,
@@ -371,7 +371,7 @@
       "BMI_25_bis_30": 20.9,
       "BMI_30_und_mehr": 12.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2942157,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.4,
@@ -384,7 +384,7 @@
     }
   },
   "34": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2739144,
       "Auskunftsquote": 49.1,
       "Körpergröße": 167.2,
@@ -395,7 +395,7 @@
       "BMI_25_bis_30": 20.9,
       "BMI_30_und_mehr": 12.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2942157,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.4,
@@ -408,7 +408,7 @@
     }
   },
   "35": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2592189,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.3,
@@ -419,7 +419,7 @@
       "BMI_25_bis_30": 22.5,
       "BMI_30_und_mehr": 11.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2671417,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.2,
@@ -432,7 +432,7 @@
     }
   },
   "36": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2592189,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.3,
@@ -443,7 +443,7 @@
       "BMI_25_bis_30": 22.5,
       "BMI_30_und_mehr": 11.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2671417,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.2,
@@ -456,7 +456,7 @@
     }
   },
   "37": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2592189,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.3,
@@ -467,7 +467,7 @@
       "BMI_25_bis_30": 22.5,
       "BMI_30_und_mehr": 11.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2671417,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.2,
@@ -480,7 +480,7 @@
     }
   },
   "38": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2592189,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.3,
@@ -491,7 +491,7 @@
       "BMI_25_bis_30": 22.5,
       "BMI_30_und_mehr": 11.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2671417,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.2,
@@ -504,7 +504,7 @@
     }
   },
   "39": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2592189,
       "Auskunftsquote": 45.9,
       "Körpergröße": 167.3,
@@ -515,7 +515,7 @@
       "BMI_25_bis_30": 22.5,
       "BMI_30_und_mehr": 11.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2671417,
       "Auskunftsquote": 52.9,
       "Körpergröße": 180.2,
@@ -528,7 +528,7 @@
     }
   },
   "40": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2564193,
       "Auskunftsquote": 46.5,
       "Körpergröße": 167.5,
@@ -539,7 +539,7 @@
       "BMI_25_bis_30": 23.8,
       "BMI_30_und_mehr": 13.0
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2584358,
       "Auskunftsquote": 52.6,
       "Körpergröße": 180.2,
@@ -552,7 +552,7 @@
     }
   },
   "41": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2564193,
       "Auskunftsquote": 46.5,
       "Körpergröße": 167.5,
@@ -563,7 +563,7 @@
       "BMI_25_bis_30": 23.8,
       "BMI_30_und_mehr": 13.0
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2584358,
       "Auskunftsquote": 52.6,
       "Körpergröße": 180.2,
@@ -576,7 +576,7 @@
     }
   },
   "42": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2564193,
       "Auskunftsquote": 46.5,
       "Körpergröße": 167.5,
@@ -587,7 +587,7 @@
       "BMI_25_bis_30": 23.8,
       "BMI_30_und_mehr": 13.0
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2584358,
       "Auskunftsquote": 52.6,
       "Körpergröße": 180.2,
@@ -600,7 +600,7 @@
     }
   },
   "43": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2564193,
       "Auskunftsquote": 46.5,
       "Körpergröße": 167.5,
@@ -611,7 +611,7 @@
       "BMI_25_bis_30": 23.8,
       "BMI_30_und_mehr": 13.0
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2584358,
       "Auskunftsquote": 52.6,
       "Körpergröße": 180.2,
@@ -624,7 +624,7 @@
     }
   },
   "44": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2564193,
       "Auskunftsquote": 46.5,
       "Körpergröße": 167.5,
@@ -635,7 +635,7 @@
       "BMI_25_bis_30": 23.8,
       "BMI_30_und_mehr": 13.0
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2584358,
       "Auskunftsquote": 52.6,
       "Körpergröße": 180.2,
@@ -648,7 +648,7 @@
     }
   },
   "45": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2426100,
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
@@ -659,7 +659,7 @@
       "BMI_25_bis_30": 26.2,
       "BMI_30_und_mehr": 15.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2392188,
       "Auskunftsquote": 49.7,
       "Körpergröße": 180.2,
@@ -672,7 +672,7 @@
     }
   },
   "46": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2426100,
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
@@ -683,7 +683,7 @@
       "BMI_25_bis_30": 26.2,
       "BMI_30_und_mehr": 15.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2392188,
       "Auskunftsquote": 49.7,
       "Körpergröße": 180.2,
@@ -696,7 +696,7 @@
     }
   },
   "47": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2426100,
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
@@ -707,7 +707,7 @@
       "BMI_25_bis_30": 26.2,
       "BMI_30_und_mehr": 15.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2392188,
       "Auskunftsquote": 49.7,
       "Körpergröße": 180.2,
@@ -720,7 +720,7 @@
     }
   },
   "48": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2426100,
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
@@ -731,7 +731,7 @@
       "BMI_25_bis_30": 15.4,
       "BMI_30_und_mehr": null
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2392188,
       "Auskunftsquote": 49.7,
       "Körpergröße": 180.2,
@@ -744,7 +744,7 @@
     }
   },
   "49": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2426100,
       "Auskunftsquote": 45.4,
       "Körpergröße": 167.1,
@@ -755,7 +755,7 @@
       "BMI_25_bis_30": 26.2,
       "BMI_30_und_mehr": 15.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2392188,
       "Auskunftsquote": 49.7,
       "Körpergröße": 180.2,
@@ -768,7 +768,7 @@
     }
   },
   "50": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3095399,
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
@@ -779,7 +779,7 @@
       "BMI_25_bis_30": 29.2,
       "BMI_30_und_mehr": 15.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3163599,
       "Auskunftsquote": 50.6,
       "Körpergröße": 179.9,
@@ -792,7 +792,7 @@
     }
   },
   "51": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3095399,
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
@@ -803,7 +803,7 @@
       "BMI_25_bis_30": 29.2,
       "BMI_30_und_mehr": 15.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3163599,
       "Auskunftsquote": 50.6,
       "Körpergröße": 179.9,
@@ -816,7 +816,7 @@
     }
   },
   "52": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3095399,
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
@@ -827,7 +827,7 @@
       "BMI_25_bis_30": 29.2,
       "BMI_30_und_mehr": 15.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3163599,
       "Auskunftsquote": 50.6,
       "Körpergröße": 179.9,
@@ -840,7 +840,7 @@
     }
   },
   "53": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3095399,
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
@@ -851,7 +851,7 @@
       "BMI_25_bis_30": 29.2,
       "BMI_30_und_mehr": 15.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3163599,
       "Auskunftsquote": 50.6,
       "Körpergröße": 179.9,
@@ -864,7 +864,7 @@
     }
   },
   "54": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3095399,
       "Auskunftsquote": 45.2,
       "Körpergröße": 167.1,
@@ -875,7 +875,7 @@
       "BMI_25_bis_30": 29.2,
       "BMI_30_und_mehr": 15.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3163599,
       "Auskunftsquote": 50.6,
       "Körpergröße": 179.9,
@@ -888,7 +888,7 @@
     }
   },
   "55": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3445614,
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
@@ -899,7 +899,7 @@
       "BMI_25_bis_30": 30.1,
       "BMI_30_und_mehr": 16.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3464100,
       "Auskunftsquote": 52.0,
       "Körpergröße": 179.4,
@@ -912,7 +912,7 @@
     }
   },
   "56": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3445614,
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
@@ -923,7 +923,7 @@
       "BMI_25_bis_30": 30.1,
       "BMI_30_und_mehr": 16.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3464100,
       "Auskunftsquote": 52.0,
       "Körpergröße": 179.4,
@@ -936,7 +936,7 @@
     }
   },
   "57": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3445614,
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
@@ -947,7 +947,7 @@
       "BMI_25_bis_30": 30.1,
       "BMI_30_und_mehr": 16.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3464100,
       "Auskunftsquote": 52.0,
       "Körpergröße": 179.4,
@@ -960,7 +960,7 @@
     }
   },
   "58": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3445614,
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
@@ -971,7 +971,7 @@
       "BMI_25_bis_30": 30.1,
       "BMI_30_und_mehr": 16.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3464100,
       "Auskunftsquote": 52.0,
       "Körpergröße": 179.4,
@@ -984,7 +984,7 @@
     }
   },
   "59": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 3445614,
       "Auskunftsquote": 46.8,
       "Körpergröße": 166.9,
@@ -995,7 +995,7 @@
       "BMI_25_bis_30": 30.1,
       "BMI_30_und_mehr": 16.8
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 3464100,
       "Auskunftsquote": 52.0,
       "Körpergröße": 179.4,
@@ -1008,7 +1008,7 @@
     }
   },
   "60": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2998105,
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
@@ -1019,7 +1019,7 @@
       "BMI_25_bis_30": 32.3,
       "BMI_30_und_mehr": 18.6
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 28991,
       "Auskunftsquote": 54.2,
       "Körpergröße": 178.4,
@@ -1032,7 +1032,7 @@
     }
   },
   "61": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2998105,
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
@@ -1043,7 +1043,7 @@
       "BMI_25_bis_30": 32.3,
       "BMI_30_und_mehr": 18.6
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 28991,
       "Auskunftsquote": 54.2,
       "Körpergröße": 178.4,
@@ -1056,7 +1056,7 @@
     }
   },
   "62": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2998105,
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
@@ -1067,7 +1067,7 @@
       "BMI_25_bis_30": 32.3,
       "BMI_30_und_mehr": 18.6
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 28991,
       "Auskunftsquote": 54.2,
       "Körpergröße": 178.4,
@@ -1080,7 +1080,7 @@
     }
   },
   "63": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2998105,
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
@@ -1091,7 +1091,7 @@
       "BMI_25_bis_30": 32.3,
       "BMI_30_und_mehr": 18.6
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 28991,
       "Auskunftsquote": 54.2,
       "Körpergröße": 178.4,
@@ -1104,7 +1104,7 @@
     }
   },
   "64": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2998105,
       "Auskunftsquote": 49.9,
       "Körpergröße": 165.4,
@@ -1115,7 +1115,7 @@
       "BMI_25_bis_30": 32.3,
       "BMI_30_und_mehr": 18.6
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 28991,
       "Auskunftsquote": 54.2,
       "Körpergröße": 178.4,
@@ -1128,7 +1128,7 @@
     }
   },
   "65": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2585418,
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
@@ -1139,7 +1139,7 @@
       "BMI_25_bis_30": 33.7,
       "BMI_30_und_mehr": 19.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2369369,
       "Auskunftsquote": 57.8,
       "Körpergröße": 177.4,
@@ -1152,7 +1152,7 @@
     }
   },
   "66": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2585418,
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
@@ -1163,7 +1163,7 @@
       "BMI_25_bis_30": 33.7,
       "BMI_30_und_mehr": 19.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2369369,
       "Auskunftsquote": 57.8,
       "Körpergröße": 177.4,
@@ -1176,7 +1176,7 @@
     }
   },
   "67": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2585418,
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
@@ -1187,7 +1187,7 @@
       "BMI_25_bis_30": 33.7,
       "BMI_30_und_mehr": 19.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2369369,
       "Auskunftsquote": 57.8,
       "Körpergröße": 177.4,
@@ -1200,7 +1200,7 @@
     }
   },
   "68": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2585418,
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
@@ -1211,7 +1211,7 @@
       "BMI_25_bis_30": 33.7,
       "BMI_30_und_mehr": 19.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2369369,
       "Auskunftsquote": 57.8,
       "Körpergröße": 177.4,
@@ -1224,7 +1224,7 @@
     }
   },
   "69": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2585418,
       "Auskunftsquote": 54.8,
       "Körpergröße": 164.5,
@@ -1235,7 +1235,7 @@
       "BMI_25_bis_30": 33.7,
       "BMI_30_und_mehr": 19.4
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 2369369,
       "Auskunftsquote": 57.8,
       "Körpergröße": 177.4,
@@ -1248,7 +1248,7 @@
     }
   },
   "70": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2204101,
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
@@ -1259,7 +1259,7 @@
       "BMI_25_bis_30": 36.2,
       "BMI_30_und_mehr": 20.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 1928163,
       "Auskunftsquote": 60.3,
       "Körpergröße": 176.0,
@@ -1272,7 +1272,7 @@
     }
   },
   "71": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2204101,
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
@@ -1283,7 +1283,7 @@
       "BMI_25_bis_30": 36.2,
       "BMI_30_und_mehr": 20.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 1928163,
       "Auskunftsquote": 60.3,
       "Körpergröße": 176.0,
@@ -1296,7 +1296,7 @@
     }
   },
   "72": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2204101,
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
@@ -1307,7 +1307,7 @@
       "BMI_25_bis_30": 36.2,
       "BMI_30_und_mehr": 20.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 1928163,
       "Auskunftsquote": 60.3,
       "Körpergröße": 176.0,
@@ -1320,7 +1320,7 @@
     }
   },
   "73": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2204101,
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
@@ -1331,7 +1331,7 @@
       "BMI_25_bis_30": 36.2,
       "BMI_30_und_mehr": 20.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 1928163,
       "Auskunftsquote": 60.3,
       "Körpergröße": 176.0,
@@ -1344,7 +1344,7 @@
     }
   },
   "74": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 2204101,
       "Auskunftsquote": 57.1,
       "Körpergröße": 163.9,
@@ -1355,7 +1355,7 @@
       "BMI_25_bis_30": 36.2,
       "BMI_30_und_mehr": 20.2
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 1928163,
       "Auskunftsquote": 60.3,
       "Körpergröße": 176.0,
@@ -1368,7 +1368,7 @@
     }
   },
   "75": {
-    "Frauen": {
+    "weiblich": {
       "Bevölkerung": 51682013,
       "Auskunftsquote": 54.4,
       "Körpergröße": 162.6,
@@ -1379,7 +1379,7 @@
       "BMI_25_bis_30": 34.6,
       "BMI_30_und_mehr": 16.3
     },
-    "Männer": {
+    "männlich": {
       "Bevölkerung": 37642043,
       "Auskunftsquote": 59.6,
       "Körpergröße": 174.6,
