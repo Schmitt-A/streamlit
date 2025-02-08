@@ -23,10 +23,6 @@ response_bmi = requests.get(url_bmi)
 bmi_kategorien = response_bmi.json()
 
 
-
-
-
-
 #Risikostufen ABSIz
 #https://en.wikipedia.org/wiki/Body_shape_index
 risiko_stufen = [
@@ -275,8 +271,6 @@ if bcol2.button("ABSIz und BMI berechnen", type="primary"):
         
         for kategorie in bmi_kategorien:
             if kategorie["min"] < bmi < kategorie["max"]:
-                st.write(kategorie["category"])
-
                 st.error(f"""
                 Kategorie: **{kategorie["category"]}**  
                 *Pathophysiologie:* {kategorie["pathophysiology"]}  
