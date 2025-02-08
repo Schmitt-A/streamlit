@@ -1,4 +1,4 @@
-{
+[
     {
       "min": 0.0,
       "max": 16.0,
@@ -63,4 +63,4 @@
       "diagnostics": "Rechtsherzkatheteruntersuchung bei Verdacht auf pulmonale Hypertonie, Ganzkörperplethysmographie, Thrombophilie-Screening",
       "therapy": "Multiviszerale bariatrische Operation (RYGB/BPD-DS), intensivmedizinisches Weaning postoperativ, lebenslange Substitution von fettlöslichen Vitaminen"
     }
-}
+]
