@@ -1,5 +1,4 @@
 import streamlit as st
-import mysql.connector
 import pandas as pd
 
 st.set_page_config(page_title="Meta Quest - Apps für den Bildungsbereich", layout="wide")
@@ -9,12 +8,8 @@ password = f"{st.secrets.editor_password}"
 
 # MySQL-Verbindungsinformationen
 def get_db_connection():
-    return mysql.connector.connect(
-        host=f"{st.secrets.db_host}",
-        user=f"{st.secrets.db_user}",
-        password=f"{st.secrets.db_password}",        
-        database=f"{st.secrets.db_name}" 
-    )
+    # Initialize connection.
+    return st.connection('mysql', type='sql')
 
 # Daten aus der Datenbank abrufen
 def fetch_apps():
