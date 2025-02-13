@@ -79,7 +79,7 @@ def main():
             df.columns[5]: st.column_config.SelectboxColumn("Sprache", options=["DE", "EN", "SP"]),
             df.columns[6]: st.column_config.SelectboxColumn("Internet", options=["Offline", "Online"]),
             df.columns[8]: st.column_config.SelectboxColumn("Klasse", options=["GS", "OS", "Sek1", "Sek2", "GS/OS", "OS/Sek1", "Sek1/Sek2"]),
-            df.columns[9]: st.column_config.SelectboxColumn("Kategorie", options=["Immersion und Interaktion", "Kreativität", "interaktive Geschichten", "Filmbildung", "Berufsorientierung"]),
+            df.columns[9]: st.column_config.SelectboxColumn("Kategorie", options=["Lernanwendung","Immersion und Interaktion", "Kreativität", "interaktive Geschichten", "Filmbildung", "Berufsorientierung"]),
             df.columns[10]: st.column_config.CheckboxColumn("Handout"),
             df.columns[11]: st.column_config.CheckboxColumn("Video"),
             df.columns[12]: st.column_config.SelectboxColumn("Nutzungshinweise", options=["Roomscale, Stationär (+)", "Roomscale (+), Stationär", "Stationär", "Roomscale"]),
