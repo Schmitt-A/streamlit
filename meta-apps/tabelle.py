@@ -98,6 +98,11 @@ def main():
                 st.session_state["logged_in"] = False
                 st.rerun()
             
+            # Neue Spalte zum Löschen hinzufügen (alle Zeilen standardmäßig nicht zu löschen)
+            df["Löschen"] = False
+            # Die Lösch-Spalte in der Column config konfigurieren
+            column_config["Löschen"] = st.column_config.CheckboxColumn("Löschen")
+        
             edited_df = st.data_editor(df, column_config=column_config, num_rows="dynamic")
             if st.button("Änderungen speichern"):
                 update_apps(edited_df)
