@@ -3,23 +3,19 @@ import pandas as pd
 
 st.set_page_config(page_title="Meta Quest - Apps für den Bildungsbereich", layout="wide")
 
-#Passwort zum Bearbeiten der Datenbank
+# Passwort zum Bearbeiten der Datenbank
 password = f"{st.secrets.editor_password}"
-
-
 
 # Daten aus der Datenbank abrufen
 def fetch_apps():
     conn = st.connection('mysql', type='sql')
-    query = "SELECT * FROM Apps"
-    df = pd.read_sql(query, conn)
-    conn.close()
+    # Mit ttl=600 werden die Ergebnisse für maximal 10 Minuten zwischengespeichert
+    df = conn.query("SELECT * FROM Apps", ttl=600)
     return df
 
 # Daten in die Datenbank schreiben
 def update_apps(df):
     conn = st.connection('mysql', type='sql')
-    cursor = conn.cursor()
     columns = [
         "ID", "ErfDatum", "Name", "USK", "Preis", "Sprache", "Internet",
         "Schlagworte", "Klasse", "Kategorie", "Handout", "Videos",
@@ -41,10 +37,9 @@ def update_apps(df):
             if pd.isnull(wert):
                 wert = None
             values.append(wert)
-        cursor.execute(query, tuple(values))
-    conn.commit()
-    conn.close()
-
+        # Führt die Query ohne Caching (ttl=0) aus
+        conn.query(query, tuple(values), ttl=0)
+    st.success("Daten erfolgreich aktualisiert!")
 
 # Streamlit UI
 
@@ -93,7 +88,6 @@ try:
         edited_df = st.data_editor(df, column_config=column_config, num_rows="dynamic")
         if st.button("Änderungen speichern"):
             update_apps(edited_df)
-            st.success("Daten erfolgreich aktualisiert!")
             st.info("Bitte lade die Seite manuell neu, um die Änderungen zu sehen.")
     else:
         # Passwort-Eingabe
