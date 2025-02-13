@@ -1,4 +1,6 @@
 import streamlit as st
+import SQLAlchemy
+import mysqlclient
 import pandas as pd
 
 st.set_page_config(page_title="Meta Quest - Apps für den Bildungsbereich", layout="wide")
