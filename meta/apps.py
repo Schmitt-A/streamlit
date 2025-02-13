@@ -6,14 +6,11 @@ st.set_page_config(page_title="Meta Quest - Apps für den Bildungsbereich", layo
 #Passwort zum Bearbeiten der Datenbank
 password = f"{st.secrets.editor_password}"
 
-# MySQL-Verbindungsinformationen
-def get_db_connection():
-    # Initialize connection.
-    return st.connection('mysql', type='sql')
+
 
 # Daten aus der Datenbank abrufen
 def fetch_apps():
-    conn = get_db_connection()
+    conn = st.connection('mysql', type='sql')
     query = "SELECT * FROM Apps"
     df = pd.read_sql(query, conn)
     conn.close()
@@ -21,7 +18,7 @@ def fetch_apps():
 
 # Daten in die Datenbank schreiben
 def update_apps(df):
-    conn = get_db_connection()
+    conn = st.connection('mysql', type='sql')
     cursor = conn.cursor()
     columns = [
         "ID", "ErfDatum", "Name", "USK", "Preis", "Sprache", "Internet",
