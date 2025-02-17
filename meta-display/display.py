@@ -1,10 +1,11 @@
 import streamlit as st
 import pandas as pd
-import openpyxl
+#import openpyxl
 import random
 
 # CSV-Daten laden
-data = pd.read_excel("vr-data.xlsx")
+#data = pd.read_excel("vr-data.xlsx")
+data = pd.read_csv("vr-data.csv", sep=";")
 #st.dataframe(data)
 
 # Initialisiere Session State Keys
