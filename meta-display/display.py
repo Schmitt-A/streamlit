@@ -4,7 +4,7 @@ import openpyxl
 #import random
 
 # CSV-Daten laden
-data = pd.read_excel("vr-data.xlsx")
+data = pd.read_excel("https://github.com/Schmitt-A/streamlit/raw/refs/heads/main/meta-display/vr-data.xlsx")
 #data = pd.read_csv("vr-data.csv", sep=";")
 #st.dataframe(data)
 
