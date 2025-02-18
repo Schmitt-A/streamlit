@@ -197,7 +197,7 @@ inf1.link_button(
     type="secondary",
     icon="📧"
 )
-inf2.write(".")
+inf2.markdown("<span style='color:transparent'>.</span>", unsafe_allow_html=True)
 inf2.link_button(
     "Andreas Schmitt",
     "mailto:andreas.schmitt@pl.rlp.de?subject=VR%20Einsatz%20im%20Unterricht",
