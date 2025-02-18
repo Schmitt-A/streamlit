@@ -4,23 +4,30 @@ import openpyxl
 #import random
 
 # CSV-Daten laden
-data = pd.read_excel("https://github.com/Schmitt-A/streamlit/raw/refs/heads/main/meta-display/vr-data.xlsx")
+data = pd.read_excel("vr-data.xlsx")
 #data = pd.read_csv("vr-data.csv", sep=";")
 #st.dataframe(data)
 
 # Initialisiere Session State Keys
 if "selected_game" not in st.session_state:
     game_titles = list(data["Name"].dropna())
+    #st.session_state.selected_game = random.choice(game_titles)
     st.session_state.selected_game = "Gravity Sketch"
+
 if "selected_fach" not in st.session_state:
     st.session_state.selected_fach = ""
+
 
 # Callback-Funktionen, die den jeweils anderen Wert zurücksetzen
 def game_changed():
     st.session_state.selected_fach = ""
+    st.session_state.remove_expander_key = st.session_state.get("remove_expander_key", 0) + 1
+
 
 def fach_changed():
     st.session_state.selected_game = ""
+    st.session_state.remove_expander_key = st.session_state.get("remove_expander_key", 0) + 1
+
 
 spalten = [
     "ID",
@@ -74,7 +81,9 @@ def display_app_layout(data):
     f2.markdown(f"<div style='font-size:20px'><b>Stichpunkte</b><br>{data.get('Schlagworte','')}</div>", unsafe_allow_html=True)
     
     st.write("")
-    with st.expander("Weitere Informationen"):
+    # Füge den remove_expander_key in den Titel ein, um einen neuen Expander zu erzwingen
+    expander_title = "Weitere Informationen " + str(st.session_state.get("remove_expander_key", 0))
+    with st.expander(expander_title, expanded=False):
         a, b, c, d = st.columns(4)
         a.metric("USK", f"{data.get('USK','')}", border=True)
         b.metric("Klassenstufe", f"{data.get('Klasse','')}", border=True)
