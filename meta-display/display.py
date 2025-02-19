@@ -81,9 +81,8 @@ def display_app_layout(data):
     f2.markdown(f"<div style='font-size:20px'><b>Stichpunkte</b><br>{data.get('Schlagworte','')}</div>", unsafe_allow_html=True)
     
     st.write("")
-    # Füge den remove_expander_key in den Titel ein, um einen neuen Expander zu erzwingen
-    expander_title = "Weitere Informationen " + str(st.session_state.get("remove_expander_key", 0))
-    with st.expander(expander_title, expanded=False):
+    with st.expander("Weitere Informationen" + "\u200b" * st.session_state.expander_key, expanded=False):
+
         a, b, c, d = st.columns(4)
         a.metric("USK", f"{data.get('USK','')}", border=True)
         b.metric("Klassenstufe", f"{data.get('Klasse','')}", border=True)
