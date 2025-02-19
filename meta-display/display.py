@@ -17,16 +17,17 @@ if "selected_game" not in st.session_state:
 if "selected_fach" not in st.session_state:
     st.session_state.selected_fach = ""
 
+if "expander_key" not in st.session_state:
+    st.session_state.expander_key = 0
 
 # Callback-Funktionen, die den jeweils anderen Wert zurücksetzen
 def game_changed():
     st.session_state.selected_fach = ""
-    st.session_state.remove_expander_key = st.session_state.get("remove_expander_key", 0) + 1
-
+    st.session_state.expander_key += 1  # Erzwingt das Zurücksetzen des Expanders
 
 def fach_changed():
     st.session_state.selected_game = ""
-    st.session_state.remove_expander_key = st.session_state.get("remove_expander_key", 0) + 1
+    st.session_state.expander_key += 1  # Erzwingt das Zurücksetzen des Expanders
 
 
 spalten = [
