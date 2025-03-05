@@ -3,6 +3,9 @@ import pandas as pd
 import openpyxl
 #import random
 
+# Meta-Media-URL
+meta_media_url = "https://vr3.gfg-woerrstadt.de/meta-media/"
+
 # CSV-Daten laden
 data = pd.read_excel("https://github.com/Schmitt-A/streamlit/raw/refs/heads/main/meta-display/vr-data.xlsx")
 #data = pd.read_csv("vr-data.csv", sep=";")
@@ -34,8 +37,6 @@ spalten = [
     "ID",
     "Quelle",
     "Erfassungsdatum",
-    "Video",
-    "Bild",
     "Name",
     "USK",
     "Preis",
@@ -66,17 +67,18 @@ spalten = [
     "Plattform"
 ]
 
-st.image("https://bildung.rlp.de/typo3conf/ext/rlp_base/Resources/Public/Images/Logos/RP_PL-Logo.svg")
+st.image("https://medienbildung-mainz.bildung-rp.de/wp-content/uploads/2020/12/mbmz-header-700x200-1.png", width=200)
 st.header("Meta Quest im Unterricht")
+
 
 # Funktion für den gemeinsamen Layout-Code
 def display_app_layout(data):
     st.subheader(data.get("Name", "Kein Titel"))
     
     o1, o2 = st.columns(2)
-    o1.image(data.get("Bild", ""), caption=f"Quelle: [Meta Store]({data.get('Meta_Store','')}) / [Entwickler]({data.get('Entwickler','')})")
+    o1.image(meta_media_url + str(data.get("ID", ""))+".jpg", caption=f"Quelle: [Meta Store]({data.get('Meta_Store','')}) / [Entwickler]({data.get('Entwickler','')})")
     o2.markdown(f"**Beschreibung** {data.get('Beschreibung','')}")
-    o2.link_button("📼 Trailer", str(data.get("Video", "")), use_container_width=True, type="secondary")        
+    #o2.link_button("📼 Trailer", str(data.get("Video", "")), use_container_width=True, type="secondary")        
     f1, f2 = st.columns(2)
     f1.markdown(f"<div style='font-size:20px'><b>Unterricht</b><br>{data.get('Fach','')}</div>", unsafe_allow_html=True)
     f2.markdown(f"<div style='font-size:20px'><b>Stichpunkte</b><br>{data.get('Schlagworte','')}</div>", unsafe_allow_html=True)
