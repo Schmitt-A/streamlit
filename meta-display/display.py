@@ -1,14 +1,14 @@
 import streamlit as st
 import pandas as pd
-import openpyxl
+#import openpyxl
 #import random
 
 # Meta-Media-URL
 meta_media_url = "https://vr3.gfg-woerrstadt.de/meta-media/"
 
 # CSV-Daten laden
-data = pd.read_excel("https://github.com/Schmitt-A/streamlit/raw/refs/heads/main/meta-display/vr-data.xlsx")
-#data = pd.read_csv("vr-data.csv", sep=";")
+#data = pd.read_excel("https://github.com/Schmitt-A/streamlit/raw/refs/heads/main/meta-display/vr-data.xlsx")
+data = pd.read_csv("https://github.com/Schmitt-A/streamlit/raw/refs/heads/main/meta-display/vr-data.csv", sep=";")
 #st.dataframe(data)
 
 # Initialisiere Session State Keys
@@ -33,39 +33,6 @@ def fach_changed():
     st.session_state.expander_key += 1  # Erzwingt das Zurücksetzen des Expanders
 
 
-spalten = [
-    "ID",
-    "Quelle",
-    "Erfassungsdatum",
-    "Name",
-    "USK",
-    "Preis",
-    "In-App-Kaeufe",
-    "Sprache",
-    "Internet",
-    "Beschreibung",
-    "Schlagworte",
-    "Fach",
-    "Klasse",
-    "Didaktischer_Hinweis_1",
-    "Didaktischer_Hinweis_2",
-    "Didaktischer_Hinweis_3",
-    "Kompetenzen",
-    "Bildungsportal",
-    "Kategorie",
-    "Nutzungshinweise",
-    "Komfort",
-    "Triggerwarnung",
-    "Tiggerhinweise",
-    "KMZ1",
-    "KMZ2",
-    "KMZ3",
-    "Meta_Store",
-    "Entwickler",
-    "Speicherbedarf",
-    "Spielermodus",
-    "Plattform"
-]
 
 st.image("https://medienbildung-mainz.bildung-rp.de/wp-content/uploads/2020/12/mbmz-header-700x200-1.png", width=200)
 st.header("Meta Quest im Unterricht")
@@ -89,20 +56,25 @@ def display_app_layout(data):
         a, b, c, d = st.columns(4)
         a.metric("USK", f"{data.get('USK','')}", border=True)
         b.metric("Klassenstufe", f"{data.get('Klasse','')}", border=True)
-        c.metric("Kosten", f"{data.get('Preis','')}€", border=True)
+        c.metric("Kosten", f"{data.get('Preis','')}", border=True)
         d.metric("Internet", f"{data.get('Internet','')}", border=True)
     
         st.caption("Sprachen")
         st.write(data.get("Sprache", ""))
     
-        st.header("Didaktische Hinweise")    
-        st.write(data.get('Didaktischer_Hinweis_1',''))
-        st.write(data.get('Didaktischer_Hinweis_2',''))
-        st.write(data.get('Didaktischer_Hinweis_3',''))
+        st.header("Didaktische Hinweise")
+        if not pd.isna(data.get('Didaktischer_Hinweis_1', '')):    
+            st.write(data.get('Didaktischer_Hinweis_1',''))
+        if not pd.isna(data.get('Didaktischer_Hinweis_2', '')):
+            st.write(data.get('Didaktischer_Hinweis_2',''))
+        if not pd.isna(data.get('Didaktischer_Hinweis_3', '')):
+            st.write(data.get('Didaktischer_Hinweis_3',''))
 
-        # Ersetze im display_app_layout den betreffenden Abschnitt:
         st.header("Kompetenzen")
-        st.write(data.get('Kompetenzen',''))
+        st.write(data.get('Medienkompetenz_1',''))
+        st.write(data.get('Medienkompetenz_2',''))
+        st.write(data.get('Medienkompetenz_3',''))
+        
         url = data.get('Bildungsportal', '')
         if pd.isnull(url) or url == "":
             st.error("Keine weiteren Materialien im Bildungsportal RLP")
@@ -140,8 +112,11 @@ def display_app_layout(data):
         else:
             st.success("Keine sonstigen Anmerkungen.") 
         
-        st.markdown(f"<div style='font-size:20px'><b>Plattform</b><br>{data.get('Plattform','')}</div>", unsafe_allow_html=True)
-
+        #st.markdown(f"<div style='font-size:20px'><b>Plattform</b><br>{data.get('Plattform','')}</div>", unsafe_allow_html=True)
+        plattforms = [data.get('Plattform')]
+        plattforms = [p.strip() for p in data.get('Plattform', '').split(',')]
+        st.pills("Plattformen", plattforms, selection_mode="single", key=data.get('ID',''))
+        
         st.divider()
         
         update_date = data.get('Erfassungsdatum', '')
