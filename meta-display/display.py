@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import requests
 #import openpyxl
 #import random
 
@@ -33,9 +34,23 @@ def fach_changed():
     st.session_state.expander_key += 1  # Erzwingt das Zurücksetzen des Expanders
 
 
+# Funktion zum Überprüfen der Bild-URL und Rückgabe eines Platzhalters, falls ungültig
+def get_valid_image_url(url, placeholder=f"{meta_media_url}platzhalter.jpg"):
+    try:
+        response = requests.head(url)
+        if response.status_code == 200 and "image" in response.headers.get("Content-Type", ""):
+            return url
+    except Exception:
+        pass
+    return placeholder
+
+
 
 st.image("https://medienbildung-mainz.bildung-rp.de/wp-content/uploads/2020/12/mbmz-header-700x200-1.png", width=200)
 st.header("Meta Quest im Unterricht")
+
+
+
 
 
 # Funktion für den gemeinsamen Layout-Code
@@ -43,7 +58,11 @@ def display_app_layout(data):
     st.subheader(data.get("Name", "Kein Titel"))
     
     o1, o2 = st.columns(2)
-    o1.image(meta_media_url + str(data.get("ID", ""))+".jpg", caption=f"Quelle: [Meta Store]({data.get('Meta_Store','')}) / [Entwickler]({data.get('Entwickler','')})")
+    
+    img_url = meta_media_url + str(data.get("ID", "")) + ".jpg"
+    valid_img_url = get_valid_image_url(img_url)
+    o1.image(valid_img_url, caption=f"Quelle: [Meta Store]({data.get('Meta_Store','')}) / [Entwickler]({data.get('Entwickler','')})")
+    
     o2.markdown(f"**Beschreibung** {data.get('Beschreibung','')}")
     #o2.link_button("📼 Trailer", str(data.get("Video", "")), use_container_width=True, type="secondary")        
     f1, f2 = st.columns(2)
@@ -153,6 +172,15 @@ selected_fach = f2.selectbox(
     on_change=fach_changed
 )
 
+with st.expander("Stichwortfilter", expanded=False):
+    # Schlagwörter extrahieren, dabei Komma-getrennte Werte aufsplitten und sortieren
+    schlagworte_list = data["Schlagworte"].dropna() \
+        .apply(lambda x: [s.strip() for s in x.split(",")]).explode().unique()
+    schlagworte_list = sorted(schlagworte_list)
+    schlagworte_list = [""] + list(schlagworte_list)
+    selected_schlagwort = st.pills("", schlagworte_list, selection_mode="single", key="selected_schlagwort")
+
+
 if st.session_state.selected_game != "":
     selected_row = data[data["Name"] == st.session_state.selected_game].squeeze()
     if not selected_row.empty:
@@ -162,7 +190,13 @@ elif st.session_state.selected_fach != "":
     # Ausgabe aller Spiele, die zu dem ausgewählten Fach passen:
     for index, row in selected_rows.iterrows():
         display_app_layout(row.to_dict())
-        
+elif st.session_state.selected_schlagwort != "" and "selected_schlagwort" in st.session_state:
+    selected_rows = data[data["Schlagworte"].str.contains(st.session_state.selected_schlagwort, na=False)]
+    for index, row in selected_rows.iterrows():
+        display_app_layout(row.to_dict())    
+
+
+   
 # Kontaktinformationen
 inf1, inf2, inf3 = st.columns(3)
 
