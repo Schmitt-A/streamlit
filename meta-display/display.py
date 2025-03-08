@@ -33,7 +33,6 @@ def fach_changed():
     st.session_state.selected_game = ""
     st.session_state.expander_key += 1  # Erzwingt das Zurücksetzen des Expanders
 
-
 # Funktion zum Überprüfen der Bild-URL und Rückgabe eines Platzhalters, falls ungültig
 def get_valid_image_url(url, placeholder=f"{meta_media_url}platzhalter.jpg"):
     try:
@@ -44,13 +43,16 @@ def get_valid_image_url(url, placeholder=f"{meta_media_url}platzhalter.jpg"):
         pass
     return placeholder
 
+def schlagwort_changed():
+    # Wenn mindestens ein Stichwort ausgewählt wurde, werden andere Filter zurückgesetzt
+    if st.session_state.get("selected_schlagwort", []):
+        st.session_state.selected_game = ""
+        st.session_state.selected_fach = ""
+
 
 
 st.image("https://medienbildung-mainz.bildung-rp.de/wp-content/uploads/2020/12/mbmz-header-700x200-1.png", width=200)
 st.header("Meta Quest im Unterricht")
-
-
-
 
 
 # Funktion für den gemeinsamen Layout-Code
@@ -154,7 +156,7 @@ f1, f2 = st.columns(2)
 # Spiele auswählen (Optionen-Liste um ein leeres Element erweitern)
 spiel_titel = [""] + list(data["Name"].dropna())
 selected_game = f1.selectbox(
-    "Spiele", 
+    "Anwendung", 
     spiel_titel, 
     key="selected_game", 
     on_change=game_changed
@@ -166,20 +168,29 @@ unterricht_list = [fach.strip() for unterricht in unterricht_strings for fach in
 unterricht_list = sorted(set(unterricht_list))
 unterricht_list = [""] + unterricht_list
 selected_fach = f2.selectbox(
-    "Fächer", 
+    "Fach",
     unterricht_list, 
     key="selected_fach", 
-    on_change=fach_changed
+    on_change=fach_changed,
 )
 
-with st.expander("Stichwortfilter", expanded=False):
-    # Schlagwörter extrahieren, dabei Komma-getrennte Werte aufsplitten und sortieren
-    schlagworte_list = data["Schlagworte"].dropna() \
-        .apply(lambda x: [s.strip() for s in x.split(",")]).explode().unique()
-    schlagworte_list = sorted(schlagworte_list)
-    schlagworte_list = [""] + list(schlagworte_list)
-    selected_schlagwort = st.pills("", schlagworte_list, selection_mode="single", key="selected_schlagwort")
 
+
+
+# Schlagwörter extrahieren, dabei Komma-getrennte Werte aufsplitten, sortieren und ein leeres Element hinzufügen
+schlagworte_list = data["Schlagworte"].dropna() \
+    .apply(lambda x: [s.strip() for s in x.split(",")]).explode().unique()
+schlagworte_list = sorted(schlagworte_list)
+schlagworte_list = [""] + list(schlagworte_list)
+
+selected_schlagwort = st.multiselect(
+    "Stichwortfilter",
+    placeholder="Experiment, Design, ...",
+    options=schlagworte_list,
+    default=[],
+    key="selected_schlagwort",
+    on_change=schlagwort_changed
+)
 
 if st.session_state.selected_game != "":
     selected_row = data[data["Name"] == st.session_state.selected_game].squeeze()
@@ -187,13 +198,14 @@ if st.session_state.selected_game != "":
         display_app_layout(selected_row.to_dict())
 elif st.session_state.selected_fach != "":
     selected_rows = data[data["Fach"].str.contains(st.session_state.selected_fach, na=False)]
-    # Ausgabe aller Spiele, die zu dem ausgewählten Fach passen:
     for index, row in selected_rows.iterrows():
         display_app_layout(row.to_dict())
-elif st.session_state.selected_schlagwort != "" and "selected_schlagwort" in st.session_state:
-    selected_rows = data[data["Schlagworte"].str.contains(st.session_state.selected_schlagwort, na=False)]
+elif st.session_state.selected_schlagwort:
+    def contains_any(value):
+        return any(sel in value for sel in st.session_state.selected_schlagwort)
+    selected_rows = data[data["Schlagworte"].dropna().apply(contains_any)]
     for index, row in selected_rows.iterrows():
-        display_app_layout(row.to_dict())    
+        display_app_layout(row.to_dict())
 
 
    
